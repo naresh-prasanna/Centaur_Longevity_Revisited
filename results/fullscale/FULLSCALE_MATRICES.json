@@ -16,7 +16,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.1,
-        "median_life": 2.0532
+        "median_life": 1.9895999999999998
       },
       {
         "desig": "1998 QM107",
@@ -30,7 +30,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.1,
-        "median_life": 1.6008
+        "median_life": 1.57065
       },
       {
         "desig": "1998 TF35",
@@ -44,7 +44,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.2,
-        "median_life": 6.4461
+        "median_life": 5.9073
       },
       {
         "desig": "2000 FZ53",
@@ -58,7 +58,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.2,
-        "median_life": 4.8717
+        "median_life": 4.8672
       },
       {
         "desig": "2003 QP112",
@@ -73,7 +73,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.45,
-        "median_life": 20.7483
+        "median_life": 15.24375
       },
       {
         "desig": "2003 UW292",
@@ -87,7 +87,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.15,
-        "median_life": 6.2622
+        "median_life": 6.18075
       },
       {
         "desig": "2005 RL43",
@@ -101,7 +101,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.2,
-        "median_life": 9.654
+        "median_life": 9.607949999999999
       },
       {
         "desig": "2005 RO43",
@@ -115,7 +115,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.5,
-        "median_life": 31.788
+        "median_life": 25.054650000000002
       },
       {
         "desig": "2005 TH173",
@@ -129,7 +129,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.15,
-        "median_life": 2.6679
+        "median_life": 2.53605
       },
       {
         "desig": "2006 SX368",
@@ -143,7 +143,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.2,
-        "median_life": 8.9136
+        "median_life": 8.3457
       }
     ]
   },
@@ -860,7 +860,7 @@
         "n_clones": 20,
         "t_max_myr": 40.0,
         "frac_long_v2": 0.15,
-        "median_life": 2.6679
+        "median_life": 2.53605
       }
     ]
   },

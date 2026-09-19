@@ -17,8 +17,9 @@ Solutions." Submitted to *Celestial Mechanics and Dynamical Astronomy*.
 - `src/` — REBOUND integration driver, clone generator,
   classifier (production rule v2 and the v1 Hurst-gated comparison), campaign
   scheduler, statistical aggregation, and figure-generation scripts.
-- `data/` — cached BM09 Table 2 and modern SBDB element files (snapshot
-  2026-07-26), plus the J2000 giant-planet cache used to initialize WHFast.
+- `data/` — cached BM09 Table 2 and modern SBDB element files (retrieved
+  2026-07-26; SBDB osculating epoch 2026-06-09 for most objects), plus the J2000
+  giant-planet cache used to initialize WHFast.
 - `results/` — archived campaign JSON: TH173 (10 Myr and 40 Myr
   runs), the 20-clone BM09 Q/R matrix, the 61-object BM09 Table 2 census, the
   TH173 SBDB-covariance Q-test, the orbit-update control, the 219-ensemble
@@ -43,8 +44,9 @@ Campaign folders under `results/`:
 
 ## Reproducing the results
 
-All production integrations use random seed 87 and a JPL SBDB snapshot dated
-2026-07-26.
+All production integrations use random seed 87 and SBDB elements retrieved
+2026-07-26 (SBDB osculating epoch 2026-06-09 for most objects; 2003-09-24
+for 2003 QP112).
 
 Regenerate every tabulated number from the archived per-object JSON (no
 re-integration):
@@ -82,8 +84,9 @@ integrators).
 
 ## Citation
 
-If you use this code or data, please cite the paper above. A Zenodo DOI for
-this archive is forthcoming and will be added here once minted.
+If you use this code or data, please cite the paper above. This archive is
+version 1.0.1. The concept DOI https://doi.org/10.5281/zenodo.22840759 always
+resolves to the latest version.
 
 ## License
 

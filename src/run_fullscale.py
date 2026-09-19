@@ -21,9 +21,11 @@ import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
 
+import numpy as np
+
 ROOT = Path(__file__).resolve().parents[1]
 KERNEL_DEFAULT = r"C:\Users\Hp\Downloads\Zenith"
-CACHE_JSON = ROOT / "data" / "j2000_giants_horizons_de441.json"
+CACHE_JSON = ROOT.parent / "option_a_arc_class" / "data" / "j2000_giants_horizons_de441.json"
 SEED = 87
 FS = ROOT / "results" / "fullscale"
 
@@ -257,7 +259,7 @@ def run_phase_batch(
                 "modal": d["modal_class"],
                 "flip": d["flip"],
                 "counts": d["counts"],
-                "median_life": sorted(c["lifetime_myr"] for c in d["clones"])[len(d["clones"]) // 2],
+                "median_life": float(np.median([c["lifetime_myr"] for c in d["clones"]])),
                 "frac_long": sum(1 for c in d["clones"] if c["lifetime_myr"] >= 22) / len(d["clones"]),
             }
             for d in done

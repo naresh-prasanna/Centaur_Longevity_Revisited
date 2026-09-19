@@ -1,7 +1,12 @@
 {
+  "campaign": "clones",
   "n_objects": 61,
   "n_clones_per_object": 10,
   "t_max_myr": 25.0,
+  "n_objects_fully_censored": 1,
+  "fully_censored_desigs": [
+    "1995 SN55"
+  ],
   "seed": 87,
   "classifier_rule": "v2",
   "confusion_bailey_to_modern": {
@@ -57,7 +62,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.6327,
+      "median_lifetime_myr": 0.5538000000000001,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -82,7 +87,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 2.5086,
+      "median_lifetime_myr": 2.4111000000000002,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -107,7 +112,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 2.4972,
+      "median_lifetime_myr": 2.1007499999999997,
       "frac_ge_22myr": 0.1,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -132,7 +137,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 1.4565,
+      "median_lifetime_myr": 1.2186,
       "frac_ge_22myr": 0.1,
       "n_censored": 1,
       "orbit_2007_quality": "multi_opposition",
@@ -157,7 +162,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 1.6125,
+      "median_lifetime_myr": 1.54755,
       "frac_ge_22myr": 0.1,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -182,7 +187,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.6216,
+      "median_lifetime_myr": 0.61605,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -232,7 +237,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.3027,
+      "median_lifetime_myr": 0.2556,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "short_arc",
@@ -257,7 +262,7 @@
         "Q": 2
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.2529,
+      "median_lifetime_myr": 0.17085,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",
@@ -282,7 +287,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 10.3614,
+      "median_lifetime_myr": 10.0083,
       "frac_ge_22myr": 0.3,
       "n_censored": 3,
       "orbit_2007_quality": "multi_opposition",
@@ -307,7 +312,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 3.5523,
+      "median_lifetime_myr": 3.4419,
       "frac_ge_22myr": 0.2,
       "n_censored": 1,
       "orbit_2007_quality": "multi_opposition",
@@ -332,7 +337,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.1356,
+      "median_lifetime_myr": 0.10575,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -357,7 +362,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 4.6458,
+      "median_lifetime_myr": 4.10025,
       "frac_ge_22myr": 0.3,
       "n_censored": 2,
       "orbit_2007_quality": "multi_opposition",
@@ -432,7 +437,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.1296,
+      "median_lifetime_myr": 0.11895,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -457,7 +462,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.3576,
+      "median_lifetime_myr": 0.32925,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -482,7 +487,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 6.0519,
+      "median_lifetime_myr": 4.23825,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "multi_opposition",
@@ -507,7 +512,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.0144,
+      "median_lifetime_myr": 0.01155,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -532,7 +537,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 8.8488,
+      "median_lifetime_myr": 8.28165,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -557,7 +562,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.0456,
+      "median_lifetime_myr": 0.039900000000000005,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -582,7 +587,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 3.0564,
+      "median_lifetime_myr": 2.6233500000000003,
       "frac_ge_22myr": 0.1,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -607,7 +612,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.1212,
+      "median_lifetime_myr": 0.09405,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -632,7 +637,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.4932,
+      "median_lifetime_myr": 0.46635000000000004,
       "frac_ge_22myr": 0.1,
       "n_censored": 1,
       "orbit_2007_quality": "multi_opposition",
@@ -657,7 +662,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.5256,
+      "median_lifetime_myr": 0.40469999999999995,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -682,7 +687,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 1.9341,
+      "median_lifetime_myr": 1.83195,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -707,7 +712,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 1.053,
+      "median_lifetime_myr": 0.9789,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -732,7 +737,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 6.0681,
+      "median_lifetime_myr": 5.7334499999999995,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -782,7 +787,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 7.1289,
+      "median_lifetime_myr": 6.195,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",
@@ -807,7 +812,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 11.2239,
+      "median_lifetime_myr": 8.9649,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "multi_opposition",
@@ -832,7 +837,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 9.3186,
+      "median_lifetime_myr": 9.158249999999999,
       "frac_ge_22myr": 0.3,
       "n_censored": 3,
       "orbit_2007_quality": "short_arc",
@@ -857,7 +862,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 4.6926,
+      "median_lifetime_myr": 3.7095,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -882,7 +887,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 3.7257,
+      "median_lifetime_myr": 2.55915,
       "frac_ge_22myr": 0.1,
       "n_censored": 1,
       "orbit_2007_quality": "multi_opposition",
@@ -907,7 +912,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 4.716,
+      "median_lifetime_myr": 3.8763,
       "frac_ge_22myr": 0.1,
       "n_censored": 1,
       "orbit_2007_quality": "multi_opposition",
@@ -932,7 +937,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 3.2226,
+      "median_lifetime_myr": 2.77095,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "short_arc",
@@ -957,7 +962,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 2.5854,
+      "median_lifetime_myr": 2.12685,
       "frac_ge_22myr": 0.1,
       "n_censored": 1,
       "orbit_2007_quality": "short_arc",
@@ -982,7 +987,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 12.5235,
+      "median_lifetime_myr": 10.402650000000001,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "multi_opposition",
@@ -1032,7 +1037,7 @@
         "Q": 1
       },
       "n_clones": 10,
-      "median_lifetime_myr": 1.0296,
+      "median_lifetime_myr": 0.5388000000000001,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",
@@ -1057,7 +1062,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 5.5593,
+      "median_lifetime_myr": 5.495100000000001,
       "frac_ge_22myr": 0.2,
       "n_censored": 1,
       "orbit_2007_quality": "multi_opposition",
@@ -1082,7 +1087,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 1.776,
+      "median_lifetime_myr": 1.7031,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -1107,7 +1112,7 @@
         "Q": 2
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.042,
+      "median_lifetime_myr": 0.03975,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",
@@ -1132,7 +1137,7 @@
         "Q": 2
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.2781,
+      "median_lifetime_myr": 0.27705,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",
@@ -1157,7 +1162,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 6.555,
+      "median_lifetime_myr": 6.35175,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",
@@ -1182,7 +1187,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.8019,
+      "median_lifetime_myr": 0.6654,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -1207,7 +1212,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 6.3381,
+      "median_lifetime_myr": 6.16905,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "short_arc",
@@ -1232,7 +1237,7 @@
         "Q": 1
       },
       "n_clones": 10,
-      "median_lifetime_myr": 14.0346,
+      "median_lifetime_myr": 10.1067,
       "frac_ge_22myr": 0.3,
       "n_censored": 3,
       "orbit_2007_quality": "short_arc",
@@ -1257,7 +1262,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 6.678,
+      "median_lifetime_myr": 6.5052,
       "frac_ge_22myr": 0.1,
       "n_censored": 1,
       "orbit_2007_quality": "short_arc",
@@ -1282,7 +1287,7 @@
         "Q": 2
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.0372,
+      "median_lifetime_myr": 0.0186,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",
@@ -1307,7 +1312,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 2.2776,
+      "median_lifetime_myr": 2.0736,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -1332,7 +1337,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.2868,
+      "median_lifetime_myr": 0.23625000000000002,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "short_arc",
@@ -1357,7 +1362,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 14.0424,
+      "median_lifetime_myr": 8.85735,
       "frac_ge_22myr": 0.4,
       "n_censored": 4,
       "orbit_2007_quality": "multi_opposition",
@@ -1382,7 +1387,7 @@
         "Q": 1
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.3747,
+      "median_lifetime_myr": 0.18839999999999998,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",
@@ -1407,7 +1412,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 11.1519,
+      "median_lifetime_myr": 9.945450000000001,
       "frac_ge_22myr": 0.1,
       "n_censored": 1,
       "orbit_2007_quality": "multi_opposition",
@@ -1432,7 +1437,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 23.226,
+      "median_lifetime_myr": 19.111649999999997,
       "frac_ge_22myr": 0.5,
       "n_censored": 4,
       "orbit_2007_quality": "multi_opposition",
@@ -1457,7 +1462,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 4.083,
+      "median_lifetime_myr": 4.044449999999999,
       "frac_ge_22myr": 0.1,
       "n_censored": 1,
       "orbit_2007_quality": "short_arc",
@@ -1482,7 +1487,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 0.8808,
+      "median_lifetime_myr": 0.7554000000000001,
       "frac_ge_22myr": 0.0,
       "n_censored": 0,
       "orbit_2007_quality": "multi_opposition",
@@ -1532,7 +1537,7 @@
         "Q": 1
       },
       "n_clones": 10,
-      "median_lifetime_myr": 4.4055,
+      "median_lifetime_myr": 2.2041,
       "frac_ge_22myr": 0.4,
       "n_censored": 4,
       "orbit_2007_quality": "short_arc",
@@ -1557,7 +1562,7 @@
         "Q": 0
       },
       "n_clones": 10,
-      "median_lifetime_myr": 5.5752,
+      "median_lifetime_myr": 5.24355,
       "frac_ge_22myr": 0.2,
       "n_censored": 2,
       "orbit_2007_quality": "short_arc",

@@ -23,6 +23,8 @@ import sys
 import time
 from pathlib import Path
 
+import numpy as np
+
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import run_pop_fragility as rpf
@@ -176,7 +178,7 @@ def summarize(campaign: str = CAMPAIGN) -> dict:
             "frac_modal": blob["frac_modal"],
             "counts": blob["counts"],
             "n_clones": n,
-            "median_lifetime_myr": lifetimes[n // 2] if n else None,
+            "median_lifetime_myr": float(np.median(lifetimes)) if n else None,
             "frac_ge_22myr": sum(1 for x in lifetimes if x >= 22.0) / n if n else None,
             "n_censored": n_censored,
             "orbit_2007_quality": mod.get("orbit_2007_quality"),

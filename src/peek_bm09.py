@@ -3,6 +3,8 @@ import glob
 import json
 from collections import Counter
 
+import numpy as np
+
 rows = []
 for f in sorted(glob.glob("results/bm09_reclass/clones/*.json")):
     if "partial" in f:
@@ -15,7 +17,7 @@ for f in sorted(glob.glob("results/bm09_reclass/clones/*.json")):
         "bailey": m["bailey_class"],
         "modern": b["modal_class"],
         "frac_modal": b["frac_modal"],
-        "med_life": lf[len(lf) // 2],
+        "med_life": float(np.median([c["lifetime_myr"] for c in b["clones"]])),
         "min_life": lf[0],
         "max_life": lf[-1],
         "arc": m["arc_2007_raw"],

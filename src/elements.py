@@ -17,7 +17,7 @@ BAILEY = {
     "arc_note": "17d single opposition",
 }
 
-# JPL SBDB snapshot (fetched 2026-07-26; pe_used DE441)
+# JPL SBDB snapshot (queried 2026-07-26; osculating epoch JD 2461200.5 = 2026-06-09; pe_used DE441)
 MODERN = {
     "designation": "2005 TH173",
     "spkid": "50302016",

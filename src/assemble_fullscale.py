@@ -5,6 +5,8 @@ import json
 from collections import Counter
 from pathlib import Path
 
+import numpy as np
+
 from classify_core import reclassify_from_diagnostics
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -55,7 +57,7 @@ def summarize_objs(objs: list[dict]) -> dict:
                 "n_clones": len(clones) or o.get("n_clones"),
                 "t_max_myr": o.get("t_max_myr"),
                 "frac_long_v2": sum(1 for c in clones if c.get("lifetime_myr", 0) >= 22) / max(1, len(clones)),
-                "median_life": sorted(c.get("lifetime_myr", 0) for c in clones)[len(clones) // 2] if clones else None,
+                "median_life": float(np.median([c.get("lifetime_myr", 0) for c in clones])) if clones else None,
             }
         )
     return {
