@@ -1,5 +1,7 @@
 # Centaur Longevity Revisited — Reproducibility Archive
 
+[![DOI](https://zenodo.org/badge/1376715397.svg)](https://doi.org/10.5281/zenodo.22840759)
+
 REBOUND-based N-body integration code and archived production data
 reclassifying the Bailey & Malhotra (2009) Centaur sample on modern JPL SBDB
 orbits.

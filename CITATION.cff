@@ -9,3 +9,9 @@ authors:
     given-names: Chrisphin
     affiliation: "Indian Institute of Astrophysics, Bengaluru, India"
 license: MIT
+version: 1.0.0
+date-released: "2026-09-19"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22840760"
+    description: "Archived snapshot corresponding to this release (v1.0.0)."
