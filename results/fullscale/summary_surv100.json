@@ -1,0 +1,114 @@
+{
+  "campaign": "surv100",
+  "n": 8,
+  "n_clones": 5,
+  "t_max_myr": 100.0,
+  "n_flip": 6,
+  "flip_rate": 0.75,
+  "objects": [
+    {
+      "desig": "2000 FZ53",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 4.8717,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "2002 VR130",
+      "bailey": "D",
+      "modal": "R",
+      "flip": true,
+      "counts": {
+        "D": 1,
+        "R": 4,
+        "Q": 0
+      },
+      "median_life": 31.365,
+      "frac_long": 0.8
+    },
+    {
+      "desig": "2003 QC112",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 7.2069,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "1995 SN55",
+      "bailey": "D",
+      "modal": "R",
+      "flip": true,
+      "counts": {
+        "D": 0,
+        "R": 3,
+        "Q": 2
+      },
+      "median_life": 100.0,
+      "frac_long": 1.0
+    },
+    {
+      "desig": "2005 RO43",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 17.1306,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "2005 TH173",
+      "bailey": "Q",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 3.0855,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2003 QP112",
+      "bailey": "R",
+      "modal": "R",
+      "flip": false,
+      "counts": {
+        "D": 2,
+        "R": 3,
+        "Q": 0
+      },
+      "median_life": 34.005,
+      "frac_long": 0.6
+    },
+    {
+      "desig": "2006 SX368",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 14.7417,
+      "frac_long": 0.2
+    }
+  ]
+}

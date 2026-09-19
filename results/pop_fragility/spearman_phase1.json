@@ -1,0 +1,86 @@
+[
+  {
+    "predictor": "log10_arc_days",
+    "outcome": "minority_rq_frac",
+    "n": 172,
+    "rho": 0.0816224065905856,
+    "p": 0.2871297331632323
+  },
+  {
+    "predictor": "log10_arc_days",
+    "outcome": "disagree_vs_nominal",
+    "n": 172,
+    "rho": 0.04356267291611452,
+    "p": 0.5704271066290859
+  },
+  {
+    "predictor": "log10_arc_days",
+    "outcome": "censoring_rate",
+    "n": 172,
+    "rho": 0.07264380790498275,
+    "p": 0.3436288665915382
+  },
+  {
+    "predictor": "log10_arc_days",
+    "outcome": "frac_ge22",
+    "n": 172,
+    "rho": 0.0816224065905856,
+    "p": 0.2871297331632323
+  },
+  {
+    "predictor": "condition_code",
+    "outcome": "minority_rq_frac",
+    "n": 172,
+    "rho": 0.05602997074793203,
+    "p": 0.4653647059743084
+  },
+  {
+    "predictor": "condition_code",
+    "outcome": "disagree_vs_nominal",
+    "n": 172,
+    "rho": -0.009286908356029359,
+    "p": 0.9037614164622496
+  },
+  {
+    "predictor": "condition_code",
+    "outcome": "censoring_rate",
+    "n": 172,
+    "rho": 0.06869155679351324,
+    "p": 0.3705891264335212
+  },
+  {
+    "predictor": "condition_code",
+    "outcome": "frac_ge22",
+    "n": 172,
+    "rho": 0.05602997074793203,
+    "p": 0.4653647059743084
+  },
+  {
+    "predictor": "n_oppositions",
+    "outcome": "minority_rq_frac",
+    "n": 172,
+    "rho": 0.11218183327437352,
+    "p": 0.14287952990038727
+  },
+  {
+    "predictor": "n_oppositions",
+    "outcome": "disagree_vs_nominal",
+    "n": 172,
+    "rho": 0.0754428490512747,
+    "p": 0.32530655234646905
+  },
+  {
+    "predictor": "n_oppositions",
+    "outcome": "censoring_rate",
+    "n": 172,
+    "rho": 0.10336100134871971,
+    "p": 0.17724092514711307
+  },
+  {
+    "predictor": "n_oppositions",
+    "outcome": "frac_ge22",
+    "n": 172,
+    "rho": 0.11218183327437352,
+    "p": 0.14287952990038727
+  }
+]

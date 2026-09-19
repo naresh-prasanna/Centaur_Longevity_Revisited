@@ -1,0 +1,673 @@
+{
+  "campaign": "d5",
+  "n": 51,
+  "n_clones": 5,
+  "t_max_myr": 40.0,
+  "n_flip": 2,
+  "flip_rate": 0.0392156862745098,
+  "objects": [
+    {
+      "desig": "1977 UB",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.5205,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "1992 AD",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.4653,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "1994 TA",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.4521,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "1995 GO",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.7092,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "1993 HA2",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 11.619,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "1996 AR20",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.1353,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "1996 RX33",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.8928,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "1997 CU26",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 10.0131,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "1998 SG35",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.0378,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "1999 HD12",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.0,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "1995 SN55",
+      "bailey": "D",
+      "modal": "Q",
+      "flip": true,
+      "counts": {
+        "D": 0,
+        "R": 1,
+        "Q": 4
+      },
+      "median_life": 40.0,
+      "frac_long": 1.0
+    },
+    {
+      "desig": "1999 UG5",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.1365,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "1999 XX143",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 1.0491,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "1999 JV127",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.0,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2000 CO104",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 1.3848,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2000 GM137",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.0669,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2000 EC98",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.315,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2001 BL41",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.321,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2000 QC243",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 1.6737,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2001 PT13",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.4473,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2001 SQ73",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 1.5216,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2001 KF77",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 0.1194,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2001 XA255",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 1.5492,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2001 XZ255",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 8.3709,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2002 CA249",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.0,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2002 CB249",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 6.1044,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2002 DH5",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 4.2393,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2002 FY36",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 3.6156,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2002 GO9",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 2.3436,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2002 GB10",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 12.3987,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "2002 KY14",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 2.6103,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2002 PQ152",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 1.0362,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2002 GZ32",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 3.1614,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2002 QX47",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 2.397,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2002 TK301",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.0,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2002 VG131",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.1194,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2002 VR130",
+      "bailey": "D",
+      "modal": "R",
+      "flip": true,
+      "counts": {
+        "D": 1,
+        "R": 4,
+        "Q": 0
+      },
+      "median_life": 31.365,
+      "frac_long": 0.8
+    },
+    {
+      "desig": "2003 CO1",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 8.7984,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "2003 KQ20",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.0357,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2003 LH7",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.0873,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2003 QD112",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 1.6722,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2003 QN112",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 3.8667,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2003 QC112",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 7.2069,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "2003 WL7",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 1.6413,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2004 CJ39",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.1602,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2003 UY292",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 4,
+        "R": 0,
+        "Q": 1
+      },
+      "median_life": 0.0,
+      "frac_long": 0.2
+    },
+    {
+      "desig": "2004 XQ190",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 1.8954,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "2005 UJ438",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "median_life": 0.8973,
+      "frac_long": 0.0
+    },
+    {
+      "desig": "2004 QQ26",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 21.8913,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "2005 VB123",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 1,
+        "Q": 1
+      },
+      "median_life": 0.0,
+      "frac_long": 0.4
+    },
+    {
+      "desig": "2006 AA99",
+      "bailey": "D",
+      "modal": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 11.7339,
+      "frac_long": 0.4
+    }
+  ]
+}

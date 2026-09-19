@@ -1,0 +1,72 @@
+{
+  "desig": "2025 MD138",
+  "campaign": "phase3_40",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "pdes": "2025 MD138",
+    "desig": "2025 MD138",
+    "full_name": "(2025 MD138)",
+    "spkid": "54581555",
+    "a_au": 29.96911303173301,
+    "e": 0.04497565741536662,
+    "i_deg": 6.044029827022568,
+    "om_deg": 220.0788454895537,
+    "w_deg": 163.8348045116682,
+    "ma_deg": 289.3096597495221,
+    "q_au": 28.62123247097539,
+    "condition_code": 8,
+    "data_arc_days": 38.0,
+    "n_obs": 15.0,
+    "first_obs": "2025-06-21",
+    "last_obs": "2025-07-29",
+    "source": "ORB",
+    "n_oppositions": 1,
+    "sigma": {
+      "a_au": 0.45278,
+      "e": 0.12112,
+      "i_deg": 0.0016759,
+      "om_deg": 0.2992,
+      "w_deg": 76.414,
+      "ma_deg": 61.743
+    },
+    "stratum": "arc_medium|U_6-9|opp_1",
+    "arc_bin": "arc_medium",
+    "cc_bin": "U_6-9",
+    "opp_bin": "opp_1"
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 183.36758875846863,
+  "clones": [
+    {
+      "clone": 3,
+      "a0": 30.811450932963538,
+      "e0": 0.0,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 183.07673168182373,
+      "class": "R",
+      "class_v1": "R",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.3141446290159984,
+      "r2": 0.916874624191345,
+      "nonlinear": true,
+      "flat": false,
+      "rel_std": 0.13740701890910323,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 37.314771297847976,
+      "a_std": 5.127311485449666
+    }
+  ],
+  "classifier_rule": "v2"
+}

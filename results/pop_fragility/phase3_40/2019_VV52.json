@@ -1,0 +1,72 @@
+{
+  "desig": "2019 VV52",
+  "campaign": "phase3_40",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "pdes": "2019 VV52",
+    "desig": "2019 VV52",
+    "full_name": "(2019 VV52)",
+    "spkid": "54437429",
+    "a_au": 6.914896268957594,
+    "e": 0.5874844918554035,
+    "i_deg": 5.650358910353596,
+    "om_deg": 195.7293789736851,
+    "w_deg": 51.743694553207,
+    "ma_deg": 41.79921881280261,
+    "q_au": 2.852501948156216,
+    "condition_code": 9,
+    "data_arc_days": 6.0,
+    "n_obs": 10.0,
+    "first_obs": "2019-10-27",
+    "last_obs": "2019-11-02",
+    "source": "ORB",
+    "n_oppositions": 1,
+    "sigma": {
+      "a_au": 20.303,
+      "e": 1.9793,
+      "i_deg": 2.8461,
+      "om_deg": 8.9741,
+      "w_deg": 25.156,
+      "ma_deg": 264.03
+    },
+    "stratum": "arc_short|U_6-9|opp_1",
+    "arc_bin": "arc_short",
+    "cc_bin": "U_6-9",
+    "opp_bin": "opp_1"
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 0,
+    "Q": 1
+  },
+  "modal_class": "Q",
+  "frac_modal": 1.0,
+  "elapsed_s": 211.38380312919617,
+  "clones": [
+    {
+      "clone": 3,
+      "a0": 44.68596921538506,
+      "e0": 0.0,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 210.82737255096436,
+      "class": "Q",
+      "class_v1": "Q",
+      "class_v2": "Q",
+      "rule": "v2",
+      "H": 0.00021110028348511405,
+      "r2": 0.49950227382783907,
+      "nonlinear": false,
+      "flat": true,
+      "rel_std": 0.004223155319856042,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 44.751986066575945,
+      "a_std": 0.1889945880354068
+    }
+  ],
+  "classifier_rule": "v2"
+}

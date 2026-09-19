@@ -1,0 +1,72 @@
+{
+  "desig": "2025 BY2",
+  "campaign": "phase3_40",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "pdes": "2025 BY2",
+    "desig": "2025 BY2",
+    "full_name": "(2025 BY2)",
+    "spkid": "54517100",
+    "a_au": 26.51136251593746,
+    "e": 0.8131246199615518,
+    "i_deg": 147.4425515218958,
+    "om_deg": 128.8929861713677,
+    "w_deg": 356.5969972999118,
+    "ma_deg": 0.05891426768742015,
+    "q_au": 4.954320945502883,
+    "condition_code": 9,
+    "data_arc_days": 27.0,
+    "n_obs": 27.0,
+    "first_obs": "2024-12-27",
+    "last_obs": "2025-01-23",
+    "source": "ORB",
+    "n_oppositions": 2,
+    "sigma": {
+      "a_au": 14.81,
+      "e": 0.10273,
+      "i_deg": 0.51666,
+      "om_deg": 0.0097707,
+      "w_deg": 1.941,
+      "ma_deg": 0.16888
+    },
+    "stratum": "arc_short|U_6-9|opp_2-3",
+    "arc_bin": "arc_short",
+    "cc_bin": "U_6-9",
+    "opp_bin": "opp_2-3"
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 189.4895236492157,
+  "clones": [
+    {
+      "clone": 3,
+      "a0": 54.063428237091514,
+      "e0": 0.7626181318184088,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 189.20464253425598,
+      "class": "R",
+      "class_v1": "R",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.3176785215740178,
+      "r2": 0.8859796630587584,
+      "nonlinear": true,
+      "flat": false,
+      "rel_std": 0.17551777257372012,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 67.36805088822327,
+      "a_std": 11.824290234709492
+    }
+  ],
+  "classifier_rule": "v2"
+}

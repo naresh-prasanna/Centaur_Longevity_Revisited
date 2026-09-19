@@ -1,0 +1,72 @@
+{
+  "desig": "2016 YY39",
+  "campaign": "phase3_40",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "pdes": "2016 YY39",
+    "desig": "2016 YY39",
+    "full_name": "(2016 YY39)",
+    "spkid": "54431783",
+    "a_au": 29.04055974377585,
+    "e": 0.2763912480575671,
+    "i_deg": 13.36412812279475,
+    "om_deg": 246.0067250707811,
+    "w_deg": 149.9984270238925,
+    "ma_deg": 103.1988040039798,
+    "q_au": 21.0140031919033,
+    "condition_code": 5,
+    "data_arc_days": 653.0,
+    "n_obs": 20.0,
+    "first_obs": "2016-04-04",
+    "last_obs": "2018-01-17",
+    "source": "ORB",
+    "n_oppositions": 3,
+    "sigma": {
+      "a_au": 0.031407,
+      "e": 0.0014817,
+      "i_deg": 0.00055636,
+      "om_deg": 0.019039,
+      "w_deg": 0.16098,
+      "ma_deg": 0.38449
+    },
+    "stratum": "arc_medium|U_3-5|opp_2-3",
+    "arc_bin": "arc_medium",
+    "cc_bin": "U_3-5",
+    "opp_bin": "opp_2-3"
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 215.17198991775513,
+  "clones": [
+    {
+      "clone": 6,
+      "a0": 29.039693727573738,
+      "e0": 0.278036858511456,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 214.09473943710327,
+      "class": "R",
+      "class_v1": "D",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.4238220758483775,
+      "r2": 0.984586476889045,
+      "nonlinear": false,
+      "flat": false,
+      "rel_std": 0.20102738278270832,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 33.705820200569114,
+      "a_std": 6.775792819665977
+    }
+  ],
+  "classifier_rule": "v2"
+}

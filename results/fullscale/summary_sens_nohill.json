@@ -1,0 +1,140 @@
+{
+  "campaign": "sens_nohill",
+  "n": 10,
+  "n_clones": 3,
+  "t_max_myr": 40.0,
+  "n_flip": 7,
+  "flip_rate": 0.7,
+  "objects": [
+    {
+      "desig": "1995 DW2",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 2,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 1.4967,
+      "frac_long": 0.3333333333333333
+    },
+    {
+      "desig": "1998 TF35",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 2,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 8.7522,
+      "frac_long": 0.3333333333333333
+    },
+    {
+      "desig": "1998 QM107",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 2,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 3.7428,
+      "frac_long": 0.3333333333333333
+    },
+    {
+      "desig": "2003 QP112",
+      "bailey": "R",
+      "modal": "R",
+      "flip": false,
+      "counts": {
+        "D": 1,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 40.0,
+      "frac_long": 0.6666666666666666
+    },
+    {
+      "desig": "2000 FZ53",
+      "bailey": "R",
+      "modal": "R",
+      "flip": false,
+      "counts": {
+        "D": 0,
+        "R": 3,
+        "Q": 0
+      },
+      "median_life": 40.0,
+      "frac_long": 1.0
+    },
+    {
+      "desig": "2003 UW292",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 2,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 11.7819,
+      "frac_long": 0.3333333333333333
+    },
+    {
+      "desig": "2005 RL43",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 2,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 6.7674,
+      "frac_long": 0.3333333333333333
+    },
+    {
+      "desig": "2005 TH173",
+      "bailey": "Q",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 2,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 21.384,
+      "frac_long": 0.3333333333333333
+    },
+    {
+      "desig": "2006 SX368",
+      "bailey": "R",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 2,
+        "R": 1,
+        "Q": 0
+      },
+      "median_life": 20.7378,
+      "frac_long": 0.3333333333333333
+    },
+    {
+      "desig": "2005 RO43",
+      "bailey": "R",
+      "modal": "R",
+      "flip": false,
+      "counts": {
+        "D": 1,
+        "R": 2,
+        "Q": 0
+      },
+      "median_life": 33.0042,
+      "frac_long": 0.6666666666666666
+    }
+  ]
+}

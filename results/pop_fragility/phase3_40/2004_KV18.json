@@ -1,0 +1,72 @@
+{
+  "desig": "2004 KV18",
+  "campaign": "phase3_40",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "pdes": "2004 KV18",
+    "desig": "2004 KV18",
+    "full_name": "(2004 KV18)",
+    "spkid": "50463422",
+    "a_au": 30.09950953736908,
+    "e": 0.186643191034484,
+    "i_deg": 13.60169050909116,
+    "om_deg": 235.6660169713218,
+    "w_deg": 293.9978743634241,
+    "ma_deg": 91.04031322815331,
+    "q_au": 24.48164102874163,
+    "condition_code": 4,
+    "data_arc_days": 6277.0,
+    "n_obs": 25.0,
+    "first_obs": "2004-05-24",
+    "last_obs": "2021-07-31",
+    "source": "ORB",
+    "n_oppositions": 18,
+    "sigma": {
+      "a_au": 0.0074257,
+      "e": 7.9879e-05,
+      "i_deg": 0.00021066,
+      "om_deg": 0.00016142,
+      "w_deg": 0.049618,
+      "ma_deg": 0.063601
+    },
+    "stratum": "arc_long|U_3-5|opp_4+",
+    "arc_bin": "arc_long",
+    "cc_bin": "U_3-5",
+    "opp_bin": "opp_4+"
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 212.27266144752502,
+  "clones": [
+    {
+      "clone": 7,
+      "a0": 30.096571481950576,
+      "e0": 0.1866583256429153,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 211.61157369613647,
+      "class": "R",
+      "class_v1": "R",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.3244273225847813,
+      "r2": 0.9188489123275432,
+      "nonlinear": true,
+      "flat": false,
+      "rel_std": 0.2725002918313239,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 58.70589556546011,
+      "a_std": 15.997373674079604
+    }
+  ],
+  "classifier_rule": "v2"
+}

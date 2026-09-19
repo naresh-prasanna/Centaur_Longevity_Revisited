@@ -1,0 +1,7 @@
+python=3.11.9
+numpy=2.4.6
+rebound=5.1.1
+sbdb_query_date=2026-07-26
+seed=87
+dt_yr=0.25
+sample_yr=300

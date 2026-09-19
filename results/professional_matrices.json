@@ -1,0 +1,932 @@
+{
+  "default_rule": "v2",
+  "classifier_note": "v2 = BM09 lifetime-faithful (long+flat\u2192Q; long\u2192R; short\u2192D). v1 = legacy Hurst gate (long+r2\u22650.85\u2192D) \u2014 deprecated for headlines.",
+  "validation": {
+    "v2_ok": true,
+    "pass_rate_v2": 1.0,
+    "pass_rate_v1": 1.0,
+    "n": 6
+  },
+  "qr_pilot": {
+    "n": 10,
+    "flip_rate_v1": 1.0,
+    "flip_rate_v2": 0.7,
+    "matrix_v1": {
+      "R": {
+        "D": 9
+      },
+      "Q": {
+        "D": 1
+      }
+    },
+    "matrix_v2": {
+      "R": {
+        "D": 6,
+        "R": 3
+      },
+      "Q": {
+        "D": 1
+      }
+    },
+    "objects": [
+      {
+        "desig": "1995 DW2",
+        "bailey": "R",
+        "n_clones": 20,
+        "counts_v1": {
+          "D": 20
+        },
+        "counts_v2": {
+          "D": 18,
+          "R": 2
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": true,
+        "flip_v2": true,
+        "arc": "6 opp",
+        "modern_a": 24.94639898718384,
+        "modern_e": 0.2466388431178337,
+        "bailey_a": 25.196,
+        "bailey_e": 0.25,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "1998 QM107",
+        "bailey": "R",
+        "n_clones": 20,
+        "counts_v1": {
+          "D": 20
+        },
+        "counts_v2": {
+          "D": 18,
+          "R": 2
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": true,
+        "flip_v2": true,
+        "arc": "5 opp",
+        "modern_a": 20.03536381021545,
+        "modern_e": 0.132442479455223,
+        "bailey_a": 19.997,
+        "bailey_e": 0.137,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "1998 TF35",
+        "bailey": "R",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": true,
+        "flip_v2": true,
+        "arc": "4 opp",
+        "modern_a": 26.28529509431909,
+        "modern_e": 0.3767424219671578,
+        "bailey_a": 26.082,
+        "bailey_e": 0.378,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2000 FZ53",
+        "bailey": "R",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "R": 2,
+          "D": 1
+        },
+        "modal_v1": "D",
+        "modal_v2": "R",
+        "flip_v1": true,
+        "flip_v2": false,
+        "arc": "3 opp",
+        "modern_a": 23.69574064995999,
+        "modern_e": 0.4810250474031517,
+        "bailey_a": 23.869,
+        "bailey_e": 0.479,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2003 QP112",
+        "bailey": "R",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "R": 2,
+          "D": 1
+        },
+        "modal_v1": "D",
+        "modal_v2": "R",
+        "flip_v1": true,
+        "flip_v2": false,
+        "arc": "54d",
+        "modern_a": 21.20567620277351,
+        "modern_e": 0.3328297540709844,
+        "bailey_a": 21.129,
+        "bailey_e": 0.329,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2003 UW292",
+        "bailey": "R",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": true,
+        "flip_v2": true,
+        "arc": "28d",
+        "modern_a": 21.64693623893326,
+        "modern_e": 0.1338776045123776,
+        "bailey_a": 18.109,
+        "bailey_e": 0.131,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2005 RL43",
+        "bailey": "R",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": true,
+        "flip_v2": true,
+        "arc": "3 opp",
+        "modern_a": 24.63712522208187,
+        "modern_e": 0.04067157114309528,
+        "bailey_a": 24.466,
+        "bailey_e": 0.042,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2005 RO43",
+        "bailey": "R",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 2,
+          "R": 1
+        },
+        "counts_v2": {
+          "D": 1,
+          "R": 2
+        },
+        "modal_v1": "D",
+        "modal_v2": "R",
+        "flip_v1": true,
+        "flip_v2": false,
+        "arc": "3 opp",
+        "modern_a": 29.16267406090503,
+        "modern_e": 0.5240733011487996,
+        "bailey_a": 28.772,
+        "bailey_e": 0.52,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2005 TH173",
+        "bailey": "Q",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": true,
+        "flip_v2": true,
+        "arc": "17d",
+        "modern_a": 19.9519498408369,
+        "modern_e": 0.3069136342429877,
+        "bailey_a": 15.724,
+        "bailey_e": 0.014,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2006 SX368",
+        "bailey": "R",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "R": 1,
+          "D": 2
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": true,
+        "flip_v2": true,
+        "arc": "74d",
+        "modern_a": 22.19296889932368,
+        "modern_e": 0.4583715953468366,
+        "bailey_a": 22.134,
+        "bailey_e": 0.459,
+        "U": null,
+        "arc_days": null
+      }
+    ]
+  },
+  "short_d_control": {
+    "n": 21,
+    "stay_d_rate_v1": 0.9523809523809523,
+    "stay_d_rate_v2": 0.9523809523809523,
+    "flip_rate_v1": 0.047619047619047616,
+    "flip_rate_v2": 0.047619047619047616,
+    "objects": [
+      {
+        "desig": "1995 SN55",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "Q": 3
+        },
+        "counts_v2": {
+          "Q": 3
+        },
+        "modal_v1": "Q",
+        "modal_v2": "Q",
+        "flip_v1": true,
+        "flip_v2": true,
+        "arc": "36d",
+        "modern_a": 42.61327261387623,
+        "modern_e": 0.166259884328029,
+        "bailey_a": 23.564,
+        "bailey_e": 0.663,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "1996 AR20",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "13d",
+        "modern_a": 10.39390605177295,
+        "modern_e": 0.3952462518960992,
+        "bailey_a": 15.197,
+        "bailey_e": 0.627,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "1996 RX33",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "13d",
+        "modern_a": 24.20655325557358,
+        "modern_e": 0.2164790243970321,
+        "bailey_a": 23.868,
+        "bailey_e": 0.204,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "1999 HD12",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "50d",
+        "modern_a": 25.57379817744122,
+        "modern_e": 0.6748371091486487,
+        "bailey_a": 21.322,
+        "bailey_e": 0.583,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "1999 JV127",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "8d",
+        "modern_a": 16.7302880103901,
+        "modern_e": 0.3589520596435734,
+        "bailey_a": 16.724,
+        "bailey_e": 0.359,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2002 CA249",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "37d",
+        "modern_a": 20.71188861225194,
+        "modern_e": 0.3846805049203191,
+        "bailey_a": 20.713,
+        "bailey_e": 0.385,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2002 CB249",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "35d",
+        "modern_a": 26.54491488711198,
+        "modern_e": 0.5408614631679948,
+        "bailey_a": 28.421,
+        "bailey_e": 0.511,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2002 FY36",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "R": 1,
+          "D": 2
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "51d",
+        "modern_a": 31.91973428705515,
+        "modern_e": 0.2950492077279155,
+        "bailey_a": 28.969,
+        "bailey_e": 0.114,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2002 KY14",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "26d",
+        "modern_a": 12.59464954493553,
+        "modern_e": 0.3107646522217767,
+        "bailey_a": 12.724,
+        "bailey_e": 0.137,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2002 PQ152",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "84d",
+        "modern_a": 25.84977766610826,
+        "modern_e": 0.1863355687992981,
+        "bailey_a": 25.7,
+        "bailey_e": 0.199,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2002 TK301",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "1d",
+        "modern_a": 16.09871089535742,
+        "modern_e": 0.1322595114095219,
+        "bailey_a": 16.1,
+        "bailey_e": 0.132,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2002 VG131",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "23d",
+        "modern_a": 19.10723594990013,
+        "modern_e": 0.343306419098152,
+        "bailey_a": 17.487,
+        "bailey_e": 0.15,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2003 KQ20",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "1d",
+        "modern_a": 10.56268816925746,
+        "modern_e": 0.1938837135267516,
+        "bailey_a": 10.563,
+        "bailey_e": 0.194,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2003 LH7",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "1d",
+        "modern_a": 16.9634759259739,
+        "modern_e": 0.2924637444310446,
+        "bailey_a": 16.964,
+        "bailey_e": 0.292,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2003 QC112",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 2,
+          "R": 1
+        },
+        "counts_v2": {
+          "D": 2,
+          "R": 1
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "60d",
+        "modern_a": 20.56400074973956,
+        "modern_e": 0.2751632844445139,
+        "bailey_a": 22.083,
+        "bailey_e": 0.21,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2003 QN112",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 2,
+          "R": 1
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "54d",
+        "modern_a": 24.90974232571978,
+        "modern_e": 0.3238512796084977,
+        "bailey_a": 25.115,
+        "bailey_e": 0.333,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2003 UY292",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "29d",
+        "modern_a": 21.86410233982039,
+        "modern_e": 0.2721820019609116,
+        "bailey_a": 21.864,
+        "bailey_e": 0.272,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2004 CJ39",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 3
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "52d",
+        "modern_a": 12.83428161450113,
+        "modern_e": 0.4828898181781843,
+        "bailey_a": 12.959,
+        "bailey_e": 0.482,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2004 XQ190",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "R": 1,
+          "D": 2
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "2d",
+        "modern_a": 23.05743434035537,
+        "modern_e": 0.01011328879313144,
+        "bailey_a": 23.058,
+        "bailey_e": 0.01,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2005 VB123",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "R": 1,
+          "D": 2
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "29d",
+        "modern_a": 17.74433830489698,
+        "modern_e": 0.008587412409482091,
+        "bailey_a": 17.744,
+        "bailey_e": 0.009,
+        "U": null,
+        "arc_days": null
+      },
+      {
+        "desig": "2006 AA99",
+        "bailey": "D",
+        "n_clones": 3,
+        "counts_v1": {
+          "D": 3
+        },
+        "counts_v2": {
+          "D": 2,
+          "R": 1
+        },
+        "modal_v1": "D",
+        "modal_v2": "D",
+        "flip_v1": false,
+        "flip_v2": false,
+        "arc": "1d",
+        "modern_a": 28.61699735830762,
+        "modern_e": 0.1124109311168267,
+        "bailey_a": 26.859,
+        "bailey_e": 0.045,
+        "U": null,
+        "arc_days": null
+      }
+    ]
+  },
+  "exp_c": {
+    "n": 10,
+    "n_orbit_drives_v1": 0,
+    "n_orbit_drives_v2": 2,
+    "n_v2_bailey_R": 1,
+    "n_v2_modern_R": 3,
+    "n_v2_bailey_Q": 0,
+    "n_v2_modern_Q": 0,
+    "objects": [
+      {
+        "desig": "1995 DW2",
+        "bailey_label": "R",
+        "life_bailey": 1.2069,
+        "life_modern": 0.3,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "D",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": false,
+        "a_std_bailey": 4.3856874069912655,
+        "a_std_modern": 3.1264366915371915,
+        "r2_bailey": 0.9980691501303458,
+        "r2_modern": 0.9985965697428636
+      },
+      {
+        "desig": "1998 QM107",
+        "bailey_label": "R",
+        "life_bailey": 10.224,
+        "life_modern": 0.4344,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "D",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": false,
+        "a_std_bailey": 826.859478864096,
+        "a_std_modern": 2.223100914768498,
+        "r2_bailey": 0.07488140604449733,
+        "r2_modern": 0.9900355943868719
+      },
+      {
+        "desig": "1998 TF35",
+        "bailey_label": "R",
+        "life_bailey": 1.1367,
+        "life_modern": 3.8178,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "D",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": false,
+        "a_std_bailey": 2.8495667394410433,
+        "a_std_modern": 5.966853768246708,
+        "r2_bailey": 0.9847140318527654,
+        "r2_modern": 0.9828911713342042
+      },
+      {
+        "desig": "2000 FZ53",
+        "bailey_label": "R",
+        "life_bailey": 7.6479,
+        "life_modern": 22.6923,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "R",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": true,
+        "a_std_bailey": 168.15782738318984,
+        "a_std_modern": 3.5838263401840686,
+        "r2_bailey": 0.8799452951220162,
+        "r2_modern": 0.964686133823367
+      },
+      {
+        "desig": "2003 QP112",
+        "bailey_label": "R",
+        "life_bailey": 40.0,
+        "life_modern": 40.0,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "R",
+        "v2_modern": "R",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": false,
+        "a_std_bailey": 5.153905361917717,
+        "a_std_modern": 167.05515059295465,
+        "r2_bailey": 0.9744088474131465,
+        "r2_modern": 0.9942309433024024
+      },
+      {
+        "desig": "2003 UW292",
+        "bailey_label": "R",
+        "life_bailey": 2.0643,
+        "life_modern": 2.4234,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "D",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": false,
+        "a_std_bailey": 1.0667659894579355,
+        "a_std_modern": 1.0602630550134893,
+        "r2_bailey": 0.9649982267826637,
+        "r2_modern": 0.9692802641656686
+      },
+      {
+        "desig": "2005 RL43",
+        "bailey_label": "R",
+        "life_bailey": 7.2837,
+        "life_modern": 6.7674,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "D",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": false,
+        "a_std_bailey": 0.9539617762985121,
+        "a_std_modern": 6.107829614338849,
+        "r2_bailey": 0.9613517713927865,
+        "r2_modern": 0.9978186023029163
+      },
+      {
+        "desig": "2005 RO43",
+        "bailey_label": "R",
+        "life_bailey": 17.7006,
+        "life_modern": 11.0799,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "D",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": false,
+        "a_std_bailey": 319.55752389922736,
+        "a_std_modern": 9.0050698723721,
+        "r2_bailey": 0.8504066183573713,
+        "r2_modern": 0.8882166757188215
+      },
+      {
+        "desig": "2005 TH173",
+        "bailey_label": "Q",
+        "life_bailey": 8.7372,
+        "life_modern": 21.384,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "D",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": false,
+        "a_std_bailey": 1.9743558137303023,
+        "a_std_modern": 342.6836184699085,
+        "r2_bailey": 0.9784131990535959,
+        "r2_modern": 0.9798625719918795
+      },
+      {
+        "desig": "2006 SX368",
+        "bailey_label": "R",
+        "life_bailey": 6.4917,
+        "life_modern": 26.0421,
+        "v1_bailey": "D",
+        "v1_modern": "D",
+        "v2_bailey": "D",
+        "v2_modern": "R",
+        "orbit_drives_v1": false,
+        "orbit_drives_v2": true,
+        "a_std_bailey": 37.881968845637054,
+        "a_std_modern": 67.69284666684827,
+        "r2_bailey": 0.9988976694870367,
+        "r2_modern": 0.9253003285452978
+      }
+    ]
+  },
+  "th173_production": {
+    "n": 100,
+    "t_max_myr": 10.0,
+    "counts_v1": {
+      "D": 100
+    },
+    "counts_v2": {
+      "D": 100
+    },
+    "note": "T_max=10 Myr cannot assign Q or R (both need \u226522 Myr). Result is D-rejection of Q only."
+  },
+  "claims_allowed": [
+    "TH173 is not Q under modern elements (100 clones / 10 Myr; none reach Q criteria).",
+    "Classifier v1 produced a false 100% Q/R\u2192D headline; do not use as discovery.",
+    "Under v2, Q/R pilot flip rate is reduced; several long survivors recover as R.",
+    "Exp C under v1 was all-D (instrument); under v2, QP112 is R/R and 2 objects show orbit-driven class change.",
+    "Short-arc D control mostly stays D under both rules; SN55 is the notable D\u2192Q exception."
+  ],
+  "claims_withdrawn": [
+    "100% BM09 Q/R \u2192 D flip rate as a dynamical discovery under the legacy classifier.",
+    "Experiment C all-D as evidence that orbit revision alone does not matter (v1 was degenerate for R)."
+  ]
+}

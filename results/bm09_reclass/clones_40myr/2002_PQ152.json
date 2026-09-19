@@ -1,0 +1,90 @@
+{
+  "desig": "2002 PQ152",
+  "campaign": "clones_40myr",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "query": "2002 PQ152",
+    "full_name": "(2002 PQ152)",
+    "spkid": "50137769",
+    "pdes": "2002 PQ152",
+    "epoch_jd": 2461200.5,
+    "a_au": 25.84977766610826,
+    "e": 0.1863355687992981,
+    "i_deg": 9.334480770708744,
+    "om_deg": 324.8327058857651,
+    "w_deg": 356.5938455373676,
+    "ma_deg": 76.51114673117489,
+    "q_au": 21.033044641358583,
+    "condition_code": 3,
+    "data_arc_days": 5883.0,
+    "n_obs": 33.0,
+    "sigma": {
+      "a_au": 0.0022191,
+      "e": 4.576e-05,
+      "i_deg": 5.2827e-05,
+      "om_deg": 0.00046546,
+      "w_deg": 0.012131,
+      "ma_deg": 0.01783
+    },
+    "pe_used": "DE441",
+    "source": "JPL SBDB",
+    "desig": "2002 PQ152",
+    "bailey_class": "D",
+    "bailey_elements": {
+      "a_au": 25.7,
+      "e": 0.199,
+      "i_deg": 9.4,
+      "q_au": 20.584,
+      "H_mag": 8.6
+    },
+    "arc_2007_raw": "84d",
+    "arc_2007_type": "days",
+    "arc_2007_opp": null,
+    "arc_2007_days": 84,
+    "orbit_2007_quality": "short_arc",
+    "orbit_shift": {
+      "da": 0.14977766610826038,
+      "de": -0.012664431200701903,
+      "di": -0.06551922929125631,
+      "dq": 0.4490446413585829,
+      "frac_da": 0.005827924751294178,
+      "frac_dq": 0.021815227427059023,
+      "shift_index": 0.03447965862776092
+    }
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 185.96936535835266,
+  "clones": [
+    {
+      "clone": 4,
+      "a0": 25.84887368823241,
+      "e0": 0.18636839262659394,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 185.65798497200012,
+      "class": "R",
+      "class_v1": "D",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.45583333680535737,
+      "r2": 0.9728701838673486,
+      "nonlinear": false,
+      "flat": false,
+      "rel_std": 0.34697238550398274,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 84.8147716555889,
+      "a_std": 29.428383647662233
+    }
+  ],
+  "classifier_rule": "v2"
+}

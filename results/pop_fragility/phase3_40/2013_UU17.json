@@ -1,0 +1,72 @@
+{
+  "desig": "2013 UU17",
+  "campaign": "phase3_40",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "pdes": "2013 UU17",
+    "desig": "2013 UU17",
+    "full_name": "(2013 UU17)",
+    "spkid": "50787171",
+    "a_au": 25.92599324826019,
+    "e": 0.2458434265318455,
+    "i_deg": 8.511671628297256,
+    "om_deg": 27.97694834692875,
+    "w_deg": 249.4525147740698,
+    "ma_deg": 105.4388679843057,
+    "q_au": 19.55225823186642,
+    "condition_code": 3,
+    "data_arc_days": 3772.0,
+    "n_obs": 32.0,
+    "first_obs": "2004-09-20",
+    "last_obs": "2015-01-18",
+    "source": "ORB",
+    "n_oppositions": 12,
+    "sigma": {
+      "a_au": 0.0021373,
+      "e": 2.6772e-05,
+      "i_deg": 0.00026873,
+      "om_deg": 0.00045583,
+      "w_deg": 0.01358,
+      "ma_deg": 0.019212
+    },
+    "stratum": "arc_long|U_3-5|opp_4+",
+    "arc_bin": "arc_long",
+    "cc_bin": "U_3-5",
+    "opp_bin": "opp_4+"
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 187.30907154083252,
+  "clones": [
+    {
+      "clone": 1,
+      "a0": 25.92571371448261,
+      "e0": 0.24585651677393938,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 186.5978717803955,
+      "class": "R",
+      "class_v1": "D",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.42020756973835044,
+      "r2": 0.9767728347628681,
+      "nonlinear": false,
+      "flat": false,
+      "rel_std": 0.18381477868172955,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 41.06392691097469,
+      "a_std": 7.548156637127345
+    }
+  ],
+  "classifier_rule": "v2"
+}

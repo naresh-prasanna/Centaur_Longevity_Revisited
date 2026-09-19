@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated paper."
+title: "Centaur Longevity Revisited: Lifetime Dispersion and the Bailey & Malhotra Classifications under Modern Orbital Solutions — Reproducibility Archive"
+authors:
+  - family-names: Prasanna
+    given-names: Naresh
+    affiliation: "Knowledgeum Academy, Bengaluru, Karnataka, India"
+  - family-names: Karthick
+    given-names: Chrisphin
+    affiliation: "Indian Institute of Astrophysics, Bengaluru, India"
+license: MIT

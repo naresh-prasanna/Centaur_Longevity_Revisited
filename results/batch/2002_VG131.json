@@ -1,0 +1,88 @@
+{
+  "desig": "2002 VG131",
+  "bailey": {
+    "desig": "2002 VG131",
+    "a_au": 17.487,
+    "e": 0.15,
+    "i_deg": 21.7,
+    "q_au": 14.869,
+    "H_mag": 11.2,
+    "arc": "23d",
+    "bailey_class": "D"
+  },
+  "modern_nominal": {
+    "a_au": 19.10723594990013,
+    "e": 0.343306419098152,
+    "i_deg": 21.22900185920574,
+    "q_au": 12.547599197076439,
+    "condition_code": 9,
+    "data_arc_days": 26.0,
+    "n_obs": 6.0,
+    "spkid": "50144160",
+    "pdes": "2002 VG131"
+  },
+  "seed": 87,
+  "n_clones": 3,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 3,
+    "R": 0,
+    "Q": 0
+  },
+  "modal_class": "D",
+  "frac_modal": 1.0,
+  "bailey_class": "D",
+  "flip": false,
+  "call": "stay D",
+  "elapsed_s": 1.627002239227295,
+  "clones": [
+    {
+      "clone": 0,
+      "a0": 19.10723594990013,
+      "e0": 0.343306419098152,
+      "escaped": true,
+      "survived_full": false,
+      "class": "D",
+      "H": 0.23966650456468488,
+      "r2": 0.998304383976079,
+      "nonlinear": false,
+      "flat": false,
+      "lifetime_myr": 0.2202,
+      "long_lived": false,
+      "a_mean": 19.14514183351107,
+      "a_std": 0.21405439770980922
+    },
+    {
+      "clone": 1,
+      "a0": 17.63639102281429,
+      "e0": 0.7711693821451118,
+      "escaped": true,
+      "survived_full": false,
+      "class": "D",
+      "H": 0.5126283767134953,
+      "r2": 0.9972390131414159,
+      "nonlinear": false,
+      "flat": false,
+      "lifetime_myr": 0.1194,
+      "long_lived": false,
+      "a_mean": 10.933877990571128,
+      "a_std": 3.1807810512247907
+    },
+    {
+      "clone": 2,
+      "a0": 19.51367758634562,
+      "e0": 0.95,
+      "escaped": true,
+      "survived_full": false,
+      "class": "D",
+      "H": NaN,
+      "r2": NaN,
+      "nonlinear": false,
+      "flat": false,
+      "lifetime_myr": 0.0,
+      "long_lived": false,
+      "a_mean": NaN,
+      "a_std": NaN
+    }
+  ]
+}

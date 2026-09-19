@@ -1,0 +1,72 @@
+{
+  "desig": "2006 TN147",
+  "campaign": "phase3_40",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "pdes": "2006 TN147",
+    "desig": "2006 TN147",
+    "full_name": "(2006 TN147)",
+    "spkid": "54472969",
+    "a_au": 10.87160388366094,
+    "e": 0.2495102932267839,
+    "i_deg": 15.99744008322412,
+    "om_deg": 54.62956919795461,
+    "w_deg": 48.48469470223541,
+    "ma_deg": 329.8624349227349,
+    "q_au": 8.15902681080326,
+    "condition_code": 8,
+    "data_arc_days": 30.0,
+    "n_obs": 10.0,
+    "first_obs": "2006-10-12",
+    "last_obs": "2006-11-11",
+    "source": "ORB",
+    "n_oppositions": 1,
+    "sigma": {
+      "a_au": 0.12014,
+      "e": 0.04626,
+      "i_deg": 0.34815,
+      "om_deg": 0.0010347,
+      "w_deg": 16.39,
+      "ma_deg": 7.8948
+    },
+    "stratum": "arc_short|U_6-9|opp_1",
+    "arc_bin": "arc_short",
+    "cc_bin": "U_6-9",
+    "opp_bin": "opp_1"
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 227.83381175994873,
+  "clones": [
+    {
+      "clone": 3,
+      "a0": 11.095108622063334,
+      "e0": 0.2267668868070253,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 227.26680946350098,
+      "class": "R",
+      "class_v1": "D",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.426896870085212,
+      "r2": 0.9962978184855413,
+      "nonlinear": false,
+      "flat": false,
+      "rel_std": 0.7331282417967313,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 391.22007766509915,
+      "a_std": 286.81448769492795
+    }
+  ],
+  "classifier_rule": "v2"
+}

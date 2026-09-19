@@ -1,0 +1,90 @@
+{
+  "desig": "1998 QM107",
+  "campaign": "clones_40myr",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "query": "1998 QM107",
+    "full_name": "49036 Pelion (1998 QM107)",
+    "spkid": "20049036",
+    "pdes": "1998 QM107",
+    "epoch_jd": 2461200.5,
+    "a_au": 20.03536381021545,
+    "e": 0.132442479455223,
+    "i_deg": 9.34327160159989,
+    "om_deg": 126.8874015952085,
+    "w_deg": 153.6422878992477,
+    "ma_deg": 135.5651812435775,
+    "q_au": 17.381830550403073,
+    "condition_code": 2,
+    "data_arc_days": 9629.0,
+    "n_obs": 104.0,
+    "sigma": {
+      "a_au": 0.00019971,
+      "e": 2.036e-06,
+      "i_deg": 1.4791e-05,
+      "om_deg": 0.00022272,
+      "w_deg": 0.0033698,
+      "ma_deg": 0.0043717
+    },
+    "pe_used": "DE441",
+    "source": "JPL SBDB",
+    "desig": "1998 QM107",
+    "bailey_class": "R",
+    "bailey_elements": {
+      "a_au": 19.997,
+      "e": 0.137,
+      "i_deg": 9.4,
+      "q_au": 17.25,
+      "H_mag": 10.4
+    },
+    "arc_2007_raw": "5 opp",
+    "arc_2007_type": "opposition",
+    "arc_2007_opp": 5,
+    "arc_2007_days": null,
+    "orbit_2007_quality": "multi_opposition",
+    "orbit_shift": {
+      "da": 0.038363810215450656,
+      "de": -0.004557520544777011,
+      "di": -0.05672839840011079,
+      "dq": 0.13183055040307323,
+      "frac_da": 0.00191847828251491,
+      "frac_dq": 0.007642350748004245,
+      "shift_index": 0.012199871292781255
+    }
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 182.4373996257782,
+  "clones": [
+    {
+      "clone": 6,
+      "a0": 20.035358303414554,
+      "e0": 0.1324447406841385,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 182.08939909934998,
+      "class": "R",
+      "class_v1": "D",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.5263187092994879,
+      "r2": 0.9959704833879567,
+      "nonlinear": false,
+      "flat": false,
+      "rel_std": 0.9898683673218124,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 44.32996412073793,
+      "a_std": 43.88082920861924
+    }
+  ],
+  "classifier_rule": "v2"
+}

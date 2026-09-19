@@ -1,0 +1,72 @@
+{
+  "desig": "2022 RT3",
+  "campaign": "phase3_40",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "pdes": "2022 RT3",
+    "desig": "2022 RT3",
+    "full_name": "(2022 RT3)",
+    "spkid": "54302655",
+    "a_au": 10.51902266397612,
+    "e": 0.5824924412183333,
+    "i_deg": 169.0629847135022,
+    "om_deg": 125.2117325624726,
+    "w_deg": 203.5487724249801,
+    "ma_deg": 27.09555717233518,
+    "q_au": 4.391771473205695,
+    "condition_code": 3,
+    "data_arc_days": 670.0,
+    "n_obs": 40.0,
+    "first_obs": "2021-10-04",
+    "last_obs": "2023-08-05",
+    "source": "ORB",
+    "n_oppositions": 3,
+    "sigma": {
+      "a_au": 0.00017762,
+      "e": 6.1415e-06,
+      "i_deg": 1.9715e-05,
+      "om_deg": 6.0176e-05,
+      "w_deg": 0.00034491,
+      "ma_deg": 0.00062063
+    },
+    "stratum": "arc_medium|U_3-5|opp_2-3",
+    "arc_bin": "arc_medium",
+    "cc_bin": "U_3-5",
+    "opp_bin": "opp_2-3"
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 218.67162036895752,
+  "clones": [
+    {
+      "clone": 5,
+      "a0": 10.519156514785099,
+      "e0": 0.5824856699482021,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 218.0884222984314,
+      "class": "R",
+      "class_v1": "D",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.4968431967759332,
+      "r2": 0.9408431995249444,
+      "nonlinear": false,
+      "flat": false,
+      "rel_std": 0.30829006244075136,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 37.009018326054566,
+      "a_std": 11.409512570918562
+    }
+  ],
+  "classifier_rule": "v2"
+}

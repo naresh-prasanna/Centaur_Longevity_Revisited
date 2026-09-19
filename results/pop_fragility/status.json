@@ -1,0 +1,14 @@
+{
+  "phase": "phase1",
+  "machine": {
+    "cpu_count": 16,
+    "workers": 8,
+    "ram_gb": 7.34,
+    "ram_avail_gb": 0.39
+  },
+  "updated_unix": 1786811208.8171616,
+  "object_k": 175,
+  "object_n": 175,
+  "desig": "2011 WR74",
+  "elapsed_h": 1.81383928835392
+}

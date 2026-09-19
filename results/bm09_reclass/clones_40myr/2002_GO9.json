@@ -1,0 +1,90 @@
+{
+  "desig": "2002 GO9",
+  "campaign": "clones_40myr",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "query": "2002 GO9",
+    "full_name": "83982 Crantor (2002 GO9)",
+    "spkid": "20083982",
+    "pdes": "2002 GO9",
+    "epoch_jd": 2461200.5,
+    "a_au": 19.3655331841825,
+    "e": 0.2758200175718993,
+    "i_deg": 12.78908929673363,
+    "om_deg": 117.486666175155,
+    "w_deg": 92.39866764825618,
+    "ma_deg": 101.9093900230573,
+    "q_au": 14.024131481032086,
+    "condition_code": 1,
+    "data_arc_days": 8887.0,
+    "n_obs": 327.0,
+    "sigma": {
+      "a_au": 3.6776e-05,
+      "e": 7.5244e-07,
+      "i_deg": 1.1503e-05,
+      "om_deg": 1.8436e-05,
+      "w_deg": 0.00025148,
+      "ma_deg": 0.00042297
+    },
+    "pe_used": "DE441",
+    "source": "JPL SBDB",
+    "desig": "2002 GO9",
+    "bailey_class": "D",
+    "bailey_elements": {
+      "a_au": 19.537,
+      "e": 0.281,
+      "i_deg": 12.8,
+      "q_au": 14.055,
+      "H_mag": 9.1
+    },
+    "arc_2007_raw": "6 opp",
+    "arc_2007_type": "opposition",
+    "arc_2007_opp": 6,
+    "arc_2007_days": null,
+    "orbit_2007_quality": "multi_opposition",
+    "orbit_shift": {
+      "da": -0.17146681581749945,
+      "de": -0.005179982428100749,
+      "di": -0.010910703266370447,
+      "dq": -0.03086851896791387,
+      "frac_da": -0.008776517163203126,
+      "frac_dq": -0.0021962660240422535,
+      "shift_index": 0.007376248452143002
+    }
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 187.06561183929443,
+  "clones": [
+    {
+      "clone": 4,
+      "a0": 19.365518203023306,
+      "e0": 0.2758205573000595,
+      "escaped": false,
+      "survived_full": true,
+      "elapsed_s": 186.76364636421204,
+      "class": "R",
+      "class_v1": "D",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.47118730070792547,
+      "r2": 0.9828406400869676,
+      "nonlinear": false,
+      "flat": false,
+      "rel_std": 0.4329239241884319,
+      "lifetime_myr": 40.0,
+      "long_lived": true,
+      "a_mean": 76.29304264227349,
+      "a_std": 33.02908340940134
+    }
+  ],
+  "classifier_rule": "v2"
+}

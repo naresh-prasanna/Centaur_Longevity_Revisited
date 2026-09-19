@@ -1,0 +1,298 @@
+{
+  "n": 21,
+  "n_flip": 1,
+  "flip_rate": 0.047619047619047616,
+  "matrix": {
+    "D->Q": 1,
+    "D->D": 20
+  },
+  "flips": [
+    {
+      "desig": "1995 SN55",
+      "call": "D->Q",
+      "counts": {
+        "D": 0,
+        "R": 1,
+        "Q": 2
+      }
+    }
+  ],
+  "all": [
+    {
+      "desig": "1995 SN55",
+      "bailey": "D",
+      "modern": "Q",
+      "flip": true,
+      "counts": {
+        "D": 0,
+        "R": 1,
+        "Q": 2
+      },
+      "arc_days": 7708.0,
+      "U": 2
+    },
+    {
+      "desig": "1996 AR20",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 10912.0,
+      "U": 2
+    },
+    {
+      "desig": "1996 RX33",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 13.0,
+      "U": 9
+    },
+    {
+      "desig": "1999 HD12",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 49.0,
+      "U": 9
+    },
+    {
+      "desig": "1999 JV127",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 8.0,
+      "U": 9
+    },
+    {
+      "desig": "2002 CA249",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 37.0,
+      "U": 9
+    },
+    {
+      "desig": "2002 CB249",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 69.0,
+      "U": 8
+    },
+    {
+      "desig": "2002 FY36",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 7774.0,
+      "U": 3
+    },
+    {
+      "desig": "2002 KY14",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 8640.0,
+      "U": 0
+    },
+    {
+      "desig": "2002 PQ152",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 5883.0,
+      "U": 3
+    },
+    {
+      "desig": "2002 TK301",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 1.0,
+      "U": 9
+    },
+    {
+      "desig": "2002 VG131",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 26.0,
+      "U": 9
+    },
+    {
+      "desig": "2003 KQ20",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 1.0,
+      "U": 9
+    },
+    {
+      "desig": "2003 LH7",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 1.0,
+      "U": 9
+    },
+    {
+      "desig": "2003 QC112",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 2,
+        "R": 1,
+        "Q": 0
+      },
+      "arc_days": 7791.0,
+      "U": 4
+    },
+    {
+      "desig": "2003 QN112",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 54.0,
+      "U": 9
+    },
+    {
+      "desig": "2003 UY292",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 29.0,
+      "U": 9
+    },
+    {
+      "desig": "2004 CJ39",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 1188.0,
+      "U": 4
+    },
+    {
+      "desig": "2004 XQ190",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 2.0,
+      "U": 9
+    },
+    {
+      "desig": "2005 VB123",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 29.0,
+      "U": 9
+    },
+    {
+      "desig": "2006 AA99",
+      "bailey": "D",
+      "modern": "D",
+      "flip": false,
+      "counts": {
+        "D": 3,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 1.0,
+      "U": 9
+    }
+  ],
+  "label": "short_d40",
+  "n_clones": 3,
+  "t_max_myr": 40.0
+}

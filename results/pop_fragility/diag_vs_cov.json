@@ -1,0 +1,145 @@
+[
+  {
+    "desig": "2008 HY21",
+    "arc_days": 2823.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2011 UR402",
+    "arc_days": 2424.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2013 UU17",
+    "arc_days": 3772.0,
+    "diag_rq": 0.1,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": -0.1,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.1,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2014 LR14",
+    "arc_days": 3044.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2015 CM3",
+    "arc_days": 2303.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2016 FF180",
+    "arc_days": 3401.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2016 GC241",
+    "arc_days": 2669.0,
+    "diag_rq": 0.2,
+    "cov_rq": 0.1,
+    "delta_cov_minus_diag": -0.1,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.1,
+    "cov_censor": 0.1
+  },
+  {
+    "desig": "2016 ND21",
+    "arc_days": 3133.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2018 EZ1",
+    "arc_days": 3042.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.1,
+    "delta_cov_minus_diag": 0.1,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2019 RJ2",
+    "arc_days": 1977.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2020 PG3",
+    "arc_days": 2658.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2021 CO10",
+    "arc_days": 3776.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.0,
+    "delta_cov_minus_diag": 0,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.0
+  },
+  {
+    "desig": "2025 GF",
+    "arc_days": 3062.0,
+    "diag_rq": 0.0,
+    "cov_rq": 0.1,
+    "delta_cov_minus_diag": 0.1,
+    "diag_modal": "D",
+    "cov_modal": "D",
+    "diag_censor": 0.0,
+    "cov_censor": 0.1
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "n_objects": 61,
+  "confusion_bailey_to_modern": {
+    "D": {
+      "D": 50,
+      "R": 0,
+      "Q": 1
+    },
+    "R": {
+      "D": 9,
+      "R": 0,
+      "Q": 0
+    },
+    "Q": {
+      "D": 1,
+      "R": 0,
+      "Q": 0
+    }
+  },
+  "per_bailey_class": {
+    "D": {
+      "n": 51,
+      "n_retained": 50,
+      "retention_rate": 0.9803921568627451,
+      "reassigned_to": {
+        "D": 50,
+        "R": 0,
+        "Q": 1
+      }
+    },
+    "R": {
+      "n": 9,
+      "n_retained": 0,
+      "retention_rate": 0.0,
+      "reassigned_to": {
+        "D": 9,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    "Q": {
+      "n": 1,
+      "n_retained": 0,
+      "retention_rate": 0.0,
+      "reassigned_to": {
+        "D": 1,
+        "R": 0,
+        "Q": 0
+      }
+    }
+  },
+  "n_changed": 11,
+  "frac_changed": 0.18032786885245902,
+  "control_multi_opposition": {
+    "n": 36,
+    "n_changed": 6,
+    "frac_changed": 0.16666666666666666,
+    "desigs_changed": [
+      "1995 DW2",
+      "1998 QM107",
+      "1998 TF35",
+      "2000 FZ53",
+      "2005 RL43",
+      "2005 RO43"
+    ]
+  },
+  "test_short_arc": {
+    "n": 25,
+    "n_changed": 5,
+    "frac_changed": 0.2,
+    "desigs_changed": [
+      "1995 SN55",
+      "2003 QP112",
+      "2003 UW292",
+      "2005 TH173",
+      "2006 SX368"
+    ]
+  },
+  "fisher_short_arc_vs_control": {
+    "odds_ratio": 1.25,
+    "p_two_sided": 0.7474297325706813
+  },
+  "n_fully_censored": 1,
+  "fully_censored_desigs": [
+    "1995 SN55"
+  ],
+  "excess_change_attributable_to_orbit": 0.033333333333333354
+}

@@ -1,0 +1,1149 @@
+{
+  "campaigns": {
+    "qr20": {
+      "n": 10,
+      "flip_rate_v1": 1.0,
+      "flip_rate_v2": 1.0,
+      "objects": [
+        {
+          "desig": "1995 DW2",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 20
+          },
+          "counts_v2": {
+            "D": 18,
+            "R": 2
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "1998 QM107",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 20
+          },
+          "counts_v2": {
+            "D": 18,
+            "R": 2
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "1998 TF35",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 20
+          },
+          "counts_v2": {
+            "D": 16,
+            "R": 4
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "2000 FZ53",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 19,
+            "R": 1
+          },
+          "counts_v2": {
+            "R": 4,
+            "D": 16
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "2003 QP112",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 17,
+            "R": 1,
+            "Q": 2
+          },
+          "counts_v2": {
+            "R": 7,
+            "D": 11,
+            "Q": 2
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "2003 UW292",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 20
+          },
+          "counts_v2": {
+            "D": 17,
+            "R": 3
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "2005 RL43",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 20
+          },
+          "counts_v2": {
+            "D": 16,
+            "R": 4
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "2005 RO43",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 18,
+            "R": 2
+          },
+          "counts_v2": {
+            "D": 10,
+            "R": 10
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "2005 TH173",
+          "campaign": "qr20",
+          "bailey_class": "Q",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 20
+          },
+          "counts_v2": {
+            "D": 17,
+            "R": 3
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "2006 SX368",
+          "campaign": "qr20",
+          "bailey_class": "R",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 20
+          },
+          "counts_v2": {
+            "R": 4,
+            "D": 16
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        }
+      ]
+    },
+    "d5": {
+      "n": 51,
+      "flip_rate_v1": 0.0196078431372549,
+      "flip_rate_v2": 0.0392156862745098,
+      "objects": [
+        {
+          "desig": "1977 UB",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1992 AD",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1993 HA2",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 4,
+            "R": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1994 TA",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1995 GO",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1995 SN55",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "Q": 4,
+            "D": 1
+          },
+          "counts_v2": {
+            "Q": 4,
+            "R": 1
+          },
+          "modal_v1": "Q",
+          "modal_v2": "Q",
+          "flip_v1": true,
+          "flip_v2": true
+        },
+        {
+          "desig": "1996 AR20",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1996 RX33",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1997 CU26",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 4,
+            "R": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1998 SG35",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1999 HD12",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1999 JV127",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1999 UG5",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "1999 XX143",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2000 CO104",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2000 EC98",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2000 GM137",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2000 QC243",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2001 BL41",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2001 KF77",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "R": 1,
+            "D": 4
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2001 PT13",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2001 SQ73",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2001 XA255",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "R": 1,
+            "D": 4
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2001 XZ255",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 CA249",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 CB249",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 DH5",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 4,
+            "R": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 FY36",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "R": 1,
+            "D": 4
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 GB10",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "R": 2,
+            "D": 3
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 GO9",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 4,
+            "R": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 GZ32",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 4,
+            "R": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 KY14",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 PQ152",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 QX47",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 TK301",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 VG131",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2002 VR130",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 1,
+            "R": 4
+          },
+          "modal_v1": "D",
+          "modal_v2": "R",
+          "flip_v1": false,
+          "flip_v2": true
+        },
+        {
+          "desig": "2003 CO1",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 3,
+            "R": 2
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2003 KQ20",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2003 LH7",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2003 QC112",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "R": 1
+          },
+          "counts_v2": {
+            "D": 3,
+            "R": 2
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2003 QD112",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2003 QN112",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 4,
+            "R": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2003 UY292",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "D": 4,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2003 WL7",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2004 CJ39",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2004 QQ26",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "R": 1
+          },
+          "counts_v2": {
+            "R": 2,
+            "D": 3
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2004 XQ190",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "R": 1
+          },
+          "counts_v2": {
+            "R": 2,
+            "D": 3
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2005 UJ438",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 5
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2005 VB123",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 4,
+            "Q": 1
+          },
+          "counts_v2": {
+            "R": 1,
+            "D": 3,
+            "Q": 1
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        },
+        {
+          "desig": "2006 AA99",
+          "campaign": "d5",
+          "bailey_class": "D",
+          "n_clones": 5,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 5
+          },
+          "counts_v2": {
+            "D": 3,
+            "R": 2
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": false,
+          "flip_v2": false
+        }
+      ]
+    },
+    "th173_40": {
+      "n": 1,
+      "flip_rate_v1": 1.0,
+      "flip_rate_v2": 1.0,
+      "objects": [
+        {
+          "desig": "2005 TH173",
+          "campaign": "th173_40",
+          "bailey_class": "Q",
+          "n_clones": 20,
+          "t_max_myr": 40.0,
+          "counts_v1": {
+            "D": 20
+          },
+          "counts_v2": {
+            "D": 17,
+            "R": 3
+          },
+          "modal_v1": "D",
+          "modal_v2": "D",
+          "flip_v1": true,
+          "flip_v2": true
+        }
+      ]
+    }
+  },
+  "qr20_aggregate_v1": {
+    "D": 194,
+    "R": 4,
+    "Q": 2
+  },
+  "qr20_aggregate_v2": {
+    "D": 155,
+    "R": 43,
+    "Q": 2
+  },
+  "qr20_modal_flip_v1": 10,
+  "qr20_modal_flip_v2": 10
+}

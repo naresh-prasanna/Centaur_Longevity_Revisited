@@ -1,0 +1,17 @@
+{
+  "phase1": {
+    "n_obj": 175,
+    "n_clones": 10,
+    "t_max_myr": 25.0,
+    "workers": 8,
+    "s_per_clone_assumed": 10.021741161346435,
+    "n_jobs": 1750,
+    "wall_h": 0.6089599664012592,
+    "wall_s": 2192.255879044533,
+    "note": "as planned"
+  },
+  "phase2_h": 0.06263588225841522,
+  "phase3_h_if_20pct_censored": 0.1437145520706971,
+  "phases_1_3_h": 0.8153104007303715,
+  "pilot_wall_h": 2.052187919616699e-06
+}

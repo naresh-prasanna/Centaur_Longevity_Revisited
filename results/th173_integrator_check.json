@@ -1,0 +1,658 @@
+{
+  "label": "th173_integrator_check",
+  "desig": "2005 TH173",
+  "seed": 87,
+  "n_clones": 20,
+  "t_max_myr": 10.0,
+  "integrators": [
+    "whfast",
+    "mercurius"
+  ],
+  "ephem": "CachedJ2000Ephem",
+  "modern_nominal": {
+    "a_au": 19.9519498408369,
+    "e": 0.3069136342429877,
+    "i_deg": 13.47677552407805,
+    "q_au": 13.828424404951846,
+    "condition_code": 6,
+    "data_arc_days": 366.0
+  },
+  "summary": {
+    "median_life_myr_whfast": 3.8571,
+    "median_life_myr_mercurius": 5.5623,
+    "n_life_lt_22myr_both": 20,
+    "n_Q_both": 0,
+    "n_class_agree": 20,
+    "frac_class_agree": 1.0,
+    "spearman_lifetime": -0.43609022556390975,
+    "whfast_D_but_hybrid_long_or_Q": [],
+    "n_risk_clones": 0
+  },
+  "n_mercurius_Q": 0,
+  "n_mercurius_long_lived": 0,
+  "gap_closed": true,
+  "call": "gap closed",
+  "elapsed_s": 1481.807207584381,
+  "clones": [
+    {
+      "clone": 0,
+      "a0": 19.9519498408369,
+      "e0": 0.3069136342429877,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 2559600.0,
+        "lifetime_myr": 2.5596,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.47932901157619034,
+        "r2": 0.9974918460853305,
+        "elapsed_s": 16.783885955810547
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 5277600.0,
+        "lifetime_myr": 5.2776,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.2671069597582041,
+        "r2": 0.7234296349959589,
+        "elapsed_s": 32.06028866767883
+      }
+    },
+    {
+      "clone": 1,
+      "a0": 19.934451677686017,
+      "e0": 0.31094015985345064,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 4083000.0,
+        "lifetime_myr": 4.083,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": -0.04400089422175993,
+        "r2": 0.007077972672712152,
+        "elapsed_s": 25.106307983398438
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 2990100.0,
+        "lifetime_myr": 2.9901,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.3693024416285207,
+        "r2": 0.895502415715107,
+        "elapsed_s": 18.290101289749146
+      }
+    },
+    {
+      "clone": 2,
+      "a0": 19.956785144637365,
+      "e0": 0.3136969591131545,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 1677300.0,
+        "lifetime_myr": 1.6773,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.48277788703334545,
+        "r2": 0.9969273692858974,
+        "elapsed_s": 10.097287654876709
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 6403500.0,
+        "lifetime_myr": 6.4035,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4658448439912472,
+        "r2": 0.9943642629105605,
+        "elapsed_s": 42.19749331474304
+      }
+    },
+    {
+      "clone": 3,
+      "a0": 20.200848616855346,
+      "e0": 0.30286495391729135,
+      "whfast": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.5031984980054165,
+        "r2": 0.999521161785236,
+        "elapsed_s": 64.6860716342926
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 6563400.0,
+        "lifetime_myr": 6.5634,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.45135849192005584,
+        "r2": 0.9988085635299636,
+        "elapsed_s": 42.92131543159485
+      }
+    },
+    {
+      "clone": 4,
+      "a0": 19.897448826907713,
+      "e0": 0.31282063200918275,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 9956400.0,
+        "lifetime_myr": 9.9564,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.36943735470976174,
+        "r2": 0.9458793920532842,
+        "elapsed_s": 54.50686073303223
+      },
+      "mercurius": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.46949384136889616,
+        "r2": 0.9604409202322437,
+        "elapsed_s": 65.64853978157043
+      }
+    },
+    {
+      "clone": 5,
+      "a0": 20.052771255842682,
+      "e0": 0.29783418955825397,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 4005900.0,
+        "lifetime_myr": 4.0059,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.41622872440907716,
+        "r2": 0.9837483156083946,
+        "elapsed_s": 30.076855897903442
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 3291900.0,
+        "lifetime_myr": 3.2919,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.47061922727670025,
+        "r2": 0.9954850662336169,
+        "elapsed_s": 20.400060653686523
+      }
+    },
+    {
+      "clone": 6,
+      "a0": 19.94826071714852,
+      "e0": 0.3160596166198351,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 2199300.0,
+        "lifetime_myr": 2.1993,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.5435995769213197,
+        "r2": 0.9981951032209992,
+        "elapsed_s": 15.567778587341309
+      },
+      "mercurius": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.49106470991733914,
+        "r2": 0.9935360905947431,
+        "elapsed_s": 72.74666357040405
+      }
+    },
+    {
+      "clone": 7,
+      "a0": 19.899014436169114,
+      "e0": 0.3084739129198823,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 1476000.0,
+        "lifetime_myr": 1.476,
+        "class_v2": "D",
+        "class": "D",
+        "flat": true,
+        "long_lived": false,
+        "H": -0.2552809281804226,
+        "r2": 0.11451501645870787,
+        "elapsed_s": 12.680682182312012
+      },
+      "mercurius": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4883389885665565,
+        "r2": 0.9997936047704545,
+        "elapsed_s": 82.60411930084229
+      }
+    },
+    {
+      "clone": 8,
+      "a0": 19.962226608803416,
+      "e0": 0.31449017090509573,
+      "whfast": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4148624924568151,
+        "r2": 0.9826710981032251,
+        "elapsed_s": 67.40933084487915
+      },
+      "mercurius": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4797999786616575,
+        "r2": 0.9887195031786769,
+        "elapsed_s": 65.54994034767151
+      }
+    },
+    {
+      "clone": 9,
+      "a0": 19.88971653997775,
+      "e0": 0.3065488709389803,
+      "whfast": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.5791068865543373,
+        "r2": 0.9965150953612139,
+        "elapsed_s": 58.069841623306274
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 2348400.0,
+        "lifetime_myr": 2.3484,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": -0.1341532886501302,
+        "r2": 0.06629723760124373,
+        "elapsed_s": 16.705175638198853
+      }
+    },
+    {
+      "clone": 10,
+      "a0": 19.989629759360163,
+      "e0": 0.3044075963221576,
+      "whfast": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.36280765248038327,
+        "r2": 0.9850173826270824,
+        "elapsed_s": 72.68650388717651
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 1738800.0,
+        "lifetime_myr": 1.7388,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4524852785139528,
+        "r2": 0.9787714022612265,
+        "elapsed_s": 10.746057033538818
+      }
+    },
+    {
+      "clone": 11,
+      "a0": 19.96693687379291,
+      "e0": 0.30388828986522526,
+      "whfast": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.2890335472149633,
+        "r2": 0.9016661046565061,
+        "elapsed_s": 59.07383584976196
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 8861400.0,
+        "lifetime_myr": 8.8614,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.2809296296247354,
+        "r2": 0.9843498557886393,
+        "elapsed_s": 69.07439112663269
+      }
+    },
+    {
+      "clone": 12,
+      "a0": 19.857850200491626,
+      "e0": 0.3030168231542028,
+      "whfast": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4052507618946262,
+        "r2": 0.9620279063313546,
+        "elapsed_s": 74.1784975528717
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 1486200.0,
+        "lifetime_myr": 1.4862,
+        "class_v2": "D",
+        "class": "D",
+        "flat": true,
+        "long_lived": false,
+        "H": -0.03932109657130351,
+        "r2": 0.005813955174629015,
+        "elapsed_s": 9.795019149780273
+      }
+    },
+    {
+      "clone": 13,
+      "a0": 20.080308297083622,
+      "e0": 0.2879886081674526,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 2808600.0,
+        "lifetime_myr": 2.8086,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.39775399476229045,
+        "r2": 0.9002524916422612,
+        "elapsed_s": 21.40841770172119
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 782100.0,
+        "lifetime_myr": 0.7821,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.3599163099200783,
+        "r2": 0.9902320862515315,
+        "elapsed_s": 5.824033498764038
+      }
+    },
+    {
+      "clone": 14,
+      "a0": 20.007587366438894,
+      "e0": 0.3129017362976641,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 3155400.0,
+        "lifetime_myr": 3.1554,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.5159350497975971,
+        "r2": 0.9926920137871162,
+        "elapsed_s": 27.260390996932983
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 2052000.0,
+        "lifetime_myr": 2.052,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4057599938322118,
+        "r2": 0.9547428288706656,
+        "elapsed_s": 13.309773206710815
+      }
+    },
+    {
+      "clone": 15,
+      "a0": 20.040407979744984,
+      "e0": 0.302323443186151,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 1179300.0,
+        "lifetime_myr": 1.1793,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.5516959393424762,
+        "r2": 0.9989893098460367,
+        "elapsed_s": 7.459484100341797
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 5847000.0,
+        "lifetime_myr": 5.847,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.34192427680109605,
+        "r2": 0.9926368240990672,
+        "elapsed_s": 41.95793104171753
+      }
+    },
+    {
+      "clone": 16,
+      "a0": 19.976495533650038,
+      "e0": 0.3050471571163027,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 3708300.0,
+        "lifetime_myr": 3.7083,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.3840615046782095,
+        "r2": 0.998639371377338,
+        "elapsed_s": 24.718871355056763
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 4870200.0,
+        "lifetime_myr": 4.8702,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.3823616197640478,
+        "r2": 0.9856317446248275,
+        "elapsed_s": 30.456278562545776
+      }
+    },
+    {
+      "clone": 17,
+      "a0": 20.020060255681503,
+      "e0": 0.29848176200029886,
+      "whfast": {
+        "escaped": false,
+        "survived_full": true,
+        "lifetime_yr": 10000000.0,
+        "lifetime_myr": 10.0,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.42350523355197583,
+        "r2": 0.9785044219047676,
+        "elapsed_s": 60.88509559631348
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 1146300.0,
+        "lifetime_myr": 1.1463,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.3725610518568382,
+        "r2": 0.9964351710491096,
+        "elapsed_s": 6.25096321105957
+      }
+    },
+    {
+      "clone": 18,
+      "a0": 19.926626354259138,
+      "e0": 0.3059173228464927,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 2436600.0,
+        "lifetime_myr": 2.4366,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.40344705599392994,
+        "r2": 0.9651864621414779,
+        "elapsed_s": 13.440128803253174
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 9372900.0,
+        "lifetime_myr": 9.3729,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4887489379098944,
+        "r2": 0.9864118590350204,
+        "elapsed_s": 49.86987090110779
+      }
+    },
+    {
+      "clone": 19,
+      "a0": 19.8068487253776,
+      "e0": 0.3064016575162966,
+      "whfast": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 2919000.0,
+        "lifetime_myr": 2.919,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.40649727652953194,
+        "r2": 0.9545668109685941,
+        "elapsed_s": 16.589274168014526
+      },
+      "mercurius": {
+        "escaped": true,
+        "survived_full": false,
+        "lifetime_yr": 8638200.0,
+        "lifetime_myr": 8.6382,
+        "class_v2": "D",
+        "class": "D",
+        "flat": false,
+        "long_lived": false,
+        "H": 0.4109045595427778,
+        "r2": 0.9283389464066386,
+        "elapsed_s": 52.33954477310181
+      }
+    }
+  ]
+}

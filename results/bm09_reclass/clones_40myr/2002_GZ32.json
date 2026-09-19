@@ -1,0 +1,90 @@
+{
+  "desig": "2002 GZ32",
+  "campaign": "clones_40myr",
+  "clone_scheme": "diagonal",
+  "modern_nominal": {
+    "query": "2002 GZ32",
+    "full_name": "95626 (2002 GZ32)",
+    "spkid": "20095626",
+    "pdes": "2002 GZ32",
+    "epoch_jd": 2461200.5,
+    "a_au": 22.98706688743656,
+    "e": 0.2171972626706522,
+    "i_deg": 15.0478360963902,
+    "om_deg": 107.2953814666292,
+    "w_deg": 155.0887064506782,
+    "ma_deg": 22.48203469719588,
+    "q_au": 17.99433888265815,
+    "condition_code": 1,
+    "data_arc_days": 11082.0,
+    "n_obs": 516.0,
+    "sigma": {
+      "a_au": 6.2837e-05,
+      "e": 1.7736e-06,
+      "i_deg": 7.0889e-06,
+      "om_deg": 2.7746e-05,
+      "w_deg": 0.00017694,
+      "ma_deg": 5.7986e-05
+    },
+    "pe_used": "DE441",
+    "source": "JPL SBDB",
+    "desig": "2002 GZ32",
+    "bailey_class": "D",
+    "bailey_elements": {
+      "a_au": 23.196,
+      "e": 0.223,
+      "i_deg": 15.0,
+      "q_au": 18.033,
+      "H_mag": 6.8
+    },
+    "arc_2007_raw": "5 opp",
+    "arc_2007_type": "opposition",
+    "arc_2007_opp": 5,
+    "arc_2007_days": null,
+    "orbit_2007_quality": "multi_opposition",
+    "orbit_shift": {
+      "da": -0.20893311256344305,
+      "de": -0.005802737329347801,
+      "di": 0.047836096390199145,
+      "dq": -0.03866111734185296,
+      "frac_da": -0.009007290591629722,
+      "frac_dq": -0.0021439093518467785,
+      "shift_index": 0.00794664668119458
+    }
+  },
+  "seed": 87,
+  "n_clones": 10,
+  "t_max_myr": 40.0,
+  "counts": {
+    "D": 0,
+    "R": 1,
+    "Q": 0
+  },
+  "modal_class": "R",
+  "frac_modal": 1.0,
+  "elapsed_s": 120.53904676437378,
+  "clones": [
+    {
+      "clone": 7,
+      "a0": 22.98704202532412,
+      "e0": 0.21719759871318545,
+      "escaped": true,
+      "survived_full": false,
+      "elapsed_s": 120.22059369087219,
+      "class": "R",
+      "class_v1": "D",
+      "class_v2": "R",
+      "rule": "v2",
+      "H": 0.4169457625364301,
+      "r2": 0.9471233356802666,
+      "nonlinear": false,
+      "flat": false,
+      "rel_std": 0.17283804133875194,
+      "lifetime_myr": 26.5623,
+      "long_lived": true,
+      "a_mean": 36.529597387000535,
+      "a_std": 6.313704063435201
+    }
+  ],
+  "classifier_rule": "v2"
+}

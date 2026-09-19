@@ -1,0 +1,329 @@
+{
+  "global_counts": {
+    "D": 286,
+    "Q": 5,
+    "R": 3
+  },
+  "total": 294,
+  "frac_D": 0.9727891156462585,
+  "n_RQ_hits": 8,
+  "RQ_hits": [
+    {
+      "file": "batch\\1995_SN55.json",
+      "path": "$.clones[0]",
+      "class": "Q",
+      "life": 40.0,
+      "H": 0.03100264540305137,
+      "r2": 0.7057454920290829,
+      "flat": true,
+      "nonlinear": false,
+      "clone": 0
+    },
+    {
+      "file": "batch\\1995_SN55.json",
+      "path": "$.clones[1]",
+      "class": "Q",
+      "life": 40.0,
+      "H": 0.0023147802036847325,
+      "r2": 0.8534534485293335,
+      "flat": true,
+      "nonlinear": true,
+      "clone": 1
+    },
+    {
+      "file": "batch\\1995_SN55.json",
+      "path": "$.clones[2]",
+      "class": "R",
+      "life": 40.0,
+      "H": 0.1258011062522587,
+      "r2": 0.9135411395713745,
+      "flat": false,
+      "nonlinear": true,
+      "clone": 2
+    },
+    {
+      "file": "batch\\2003_QC112.json",
+      "path": "$.clones[1]",
+      "class": "R",
+      "life": 40.0,
+      "H": 0.36327749486389144,
+      "r2": 0.9149224234031892,
+      "flat": false,
+      "nonlinear": true,
+      "clone": 1
+    },
+    {
+      "file": "batch\\2005_RO43.json",
+      "path": "$.clones[1]",
+      "class": "R",
+      "life": 40.0,
+      "H": 0.37492716573909524,
+      "r2": 0.904483719396716,
+      "flat": false,
+      "nonlinear": true,
+      "clone": 1
+    },
+    {
+      "file": "th173_bailey_control.json",
+      "path": "$.elems",
+      "class": "Q",
+      "life": null,
+      "H": null,
+      "r2": null,
+      "flat": null,
+      "nonlinear": null,
+      "clone": null
+    },
+    {
+      "file": "th173_pilot.json",
+      "path": "$.bailey",
+      "class": "Q",
+      "life": null,
+      "H": null,
+      "r2": null,
+      "flat": null,
+      "nonlinear": null,
+      "clone": null
+    },
+    {
+      "file": "th173_production.json",
+      "path": "$.bailey",
+      "class": "Q",
+      "life": null,
+      "H": null,
+      "r2": null,
+      "flat": null,
+      "nonlinear": null,
+      "clone": null
+    }
+  ],
+  "n_long_lived_records": 30,
+  "n_long_lived_but_D": 25,
+  "long_lived_but_D_sample": [
+    {
+      "file": "batch\\1995_DW2.json",
+      "path": "$.clones[2]",
+      "life": 40.0,
+      "H": 0.39199445759836593,
+      "r2": 0.9572411102999103,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\1995_DW2.json",
+      "path": "$.clones[3]",
+      "life": 23.3685,
+      "H": 0.5096819726403847,
+      "r2": 0.9940619112694448,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2000_FZ53.json",
+      "path": "$.clones[0]",
+      "life": 22.6923,
+      "H": 0.4014729937252764,
+      "r2": 0.964686133823367,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2000_FZ53.json",
+      "path": "$.clones[1]",
+      "life": 40.0,
+      "H": 0.3861421414932494,
+      "r2": 0.9359586208349031,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2002_FY36.json",
+      "path": "$.clones[0]",
+      "life": 40.0,
+      "H": 0.34357955145805436,
+      "r2": 0.9693684341062205,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2003_QN112.json",
+      "path": "$.clones[1]",
+      "life": 40.0,
+      "H": 0.41625177351815157,
+      "r2": 0.9882806598235097,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2003_QP112.json",
+      "path": "$.clones[0]",
+      "life": 40.0,
+      "H": 0.4491214348970358,
+      "r2": 0.9942309433024024,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2003_QP112.json",
+      "path": "$.clones[1]",
+      "life": 40.0,
+      "H": 0.3491757771707527,
+      "r2": 0.9488053423418299,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2004_XQ190.json",
+      "path": "$.clones[0]",
+      "life": 24.9429,
+      "H": 0.4497899027398423,
+      "r2": 0.9790986718740646,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2005_RO43.json",
+      "path": "$.clones[2]",
+      "life": 31.788,
+      "H": 0.4046649813471592,
+      "r2": 0.9908357550039684,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2005_VB123.json",
+      "path": "$.clones[0]",
+      "life": 36.8994,
+      "H": 0.3964430969588036,
+      "r2": 0.9798425903263918,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2006_AA99.json",
+      "path": "$.clones[2]",
+      "life": 30.2073,
+      "H": 0.4517642754505173,
+      "r2": 0.9902413733594405,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "batch\\2006_SX368.json",
+      "path": "$.clones[0]",
+      "life": 26.0421,
+      "H": 0.40903352390674325,
+      "r2": 0.9253003285452978,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c\\2000_FZ53.json",
+      "path": "$.modern_ic",
+      "life": 22.6923,
+      "H": 0.4014729937252764,
+      "r2": 0.964686133823367,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c\\2000_FZ53.json",
+      "path": "$.modern_ic_full",
+      "life": 22.6923,
+      "H": 0.4014729937252764,
+      "r2": 0.964686133823367,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c\\2003_QP112.json",
+      "path": "$.bailey_ic",
+      "life": 40.0,
+      "H": 0.41023854489114303,
+      "r2": 0.9744088474131465,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c\\2003_QP112.json",
+      "path": "$.modern_ic",
+      "life": 40.0,
+      "H": 0.4491214348970358,
+      "r2": 0.9942309433024024,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c\\2003_QP112.json",
+      "path": "$.bailey_ic_full",
+      "life": 40.0,
+      "H": 0.41023854489114303,
+      "r2": 0.9744088474131465,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c\\2003_QP112.json",
+      "path": "$.modern_ic_full",
+      "life": 40.0,
+      "H": 0.4491214348970358,
+      "r2": 0.9942309433024024,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c\\2006_SX368.json",
+      "path": "$.modern_ic",
+      "life": 26.0421,
+      "H": 0.40903352390674325,
+      "r2": 0.9253003285452978,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c\\2006_SX368.json",
+      "path": "$.modern_ic_full",
+      "life": 26.0421,
+      "H": 0.40903352390674325,
+      "r2": 0.9253003285452978,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c_summary_qr40.json",
+      "path": "$.results[3].modern_ic",
+      "life": 22.6923,
+      "H": 0.4014729937252764,
+      "r2": 0.964686133823367,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c_summary_qr40.json",
+      "path": "$.results[4].bailey_ic",
+      "life": 40.0,
+      "H": 0.41023854489114303,
+      "r2": 0.9744088474131465,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c_summary_qr40.json",
+      "path": "$.results[4].modern_ic",
+      "life": 40.0,
+      "H": 0.4491214348970358,
+      "r2": 0.9942309433024024,
+      "flat": false,
+      "nonlinear": false
+    },
+    {
+      "file": "exp_c_summary_qr40.json",
+      "path": "$.results[9].modern_ic",
+      "life": 26.0421,
+      "H": 0.40903352390674325,
+      "r2": 0.9253003285452978,
+      "flat": false,
+      "nonlinear": false
+    }
+  ]
+}

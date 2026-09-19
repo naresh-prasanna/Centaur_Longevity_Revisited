@@ -1,0 +1,23 @@
+{
+  "campaign": "th173_40",
+  "n": 1,
+  "n_clones": 20,
+  "t_max_myr": 40.0,
+  "n_flip": 1,
+  "flip_rate": 1.0,
+  "objects": [
+    {
+      "desig": "2005 TH173",
+      "bailey": "Q",
+      "modal": "D",
+      "flip": true,
+      "counts": {
+        "D": 17,
+        "R": 3,
+        "Q": 0
+      },
+      "median_life": 2.6679,
+      "frac_long": 0.15
+    }
+  ]
+}

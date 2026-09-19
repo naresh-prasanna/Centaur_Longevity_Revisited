@@ -1,0 +1,236 @@
+{
+  "n": 10,
+  "n_flip": 10,
+  "flip_rate": 1.0,
+  "matrix": {
+    "R\u2192D": 9,
+    "Q\u2192D": 1
+  },
+  "flips": [
+    {
+      "desig": "1995 DW2",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "1998 QM107",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "1998 TF35",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "2000 FZ53",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "2003 QP112",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "2003 UW292",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "2005 RL43",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "2005 RO43",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "2005 TH173",
+      "call": "Q\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    },
+    {
+      "desig": "2006 SX368",
+      "call": "R\u2192D",
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      }
+    }
+  ],
+  "all": [
+    {
+      "desig": "1995 DW2",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 5576.0,
+      "U": 3
+    },
+    {
+      "desig": "1998 QM107",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 9629.0,
+      "U": 2
+    },
+    {
+      "desig": "1998 TF35",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 9577.0,
+      "U": 2
+    },
+    {
+      "desig": "2000 FZ53",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 740.0,
+      "U": 5
+    },
+    {
+      "desig": "2003 QP112",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 54.0,
+      "U": 9
+    },
+    {
+      "desig": "2003 UW292",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 8146.0,
+      "U": 1
+    },
+    {
+      "desig": "2005 RL43",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 8143.0,
+      "U": 2
+    },
+    {
+      "desig": "2005 RO43",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 7854.0,
+      "U": 1
+    },
+    {
+      "desig": "2005 TH173",
+      "bailey": "Q",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 366.0,
+      "U": 6
+    },
+    {
+      "desig": "2006 SX368",
+      "bailey": "R",
+      "modern": "D",
+      "flip": true,
+      "counts": {
+        "D": 5,
+        "R": 0,
+        "Q": 0
+      },
+      "arc_days": 6644.0,
+      "U": 2
+    }
+  ],
+  "label": "qr_pilot",
+  "n_clones": 5,
+  "t_max_myr": 10.0
+}
